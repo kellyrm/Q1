@@ -1,0 +1,74 @@
+TxQBSP 1.13 -- Modified by Bengt Jardrup
+
+Inputfile: D:\krm\Quake\TrenchBroom\maps\stars.map
+Outputfile: D:\krm\Quake\TrenchBroom\maps\stars.bsp
+------ LoadMapFile ------
+    36 faces
+     6 brushes
+    39 entities
+     3 miptex
+    14 texinfo
+
+Building hulls sequentially...
+Processing hull 0...
+------ Brush_LoadEntity ------
+     6 brushes read
+------ CSGFaces ------
+    36 brushfaces
+    32 csgfaces
+    34 mergedfaces
+------ SolidBSP ------
+    28 split nodes
+     5 solid leafs
+    21 empty leafs
+     3 water leafs
+   321 leaffaces
+   314 nodefaces
+------ FillOutside ------
+    20 outleafs
+------ MergeAll ------
+    14 mergefaces
+------ SolidBSP ------
+     9 split nodes
+     8 solid leafs
+     1 empty leafs
+     1 water leafs
+   130 leaffaces
+   130 nodefaces
+------ Portalize ------
+     2 vis leafs
+     0 vis portals
+------ Tjunc ------
+    70 world edges
+   364 edge points
+   132 edges added by tjunctions
+     2 faces added by tjunctions
+------ MakeFaceEdges ------
+------ GrowRegions ------
+Processing hull 1...
+WARNING: No entities in empty space -- no filling performed
+Processing hull 2...
+WARNING: No entities in empty space -- no filling performed
+
+------ FinishBSPFile ------
+WriteBSPFile: D:\krm\Quake\TrenchBroom\maps\stars.bsp
+    35 planes          700
+   164 vertexes       1968
+     9 nodes           216
+    14 texinfo         560
+   132 faces          2640
+    48 clipnodes       384
+     3 leafs            84
+   132 marksurfaces    264
+   656 surfedges      2624
+   329 edges          1316
+     3 textures      54536
+       lightdata         0
+       visdata           0
+       entdata        2785
+
+2 warnings
+
+Elapsed time : 0:00
+
+Peak memory used : 0.2 MB

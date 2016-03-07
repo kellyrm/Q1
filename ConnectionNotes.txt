@@ -1,0 +1,60 @@
+oh, to execute commands on the server, look at the quake\ctf\d.cfg file.  it's my cfg file.  you'll probably want to start with that to get all the Quake foo-foo stuff taken out (bobbing when running, screen tilt when u get shot, etc).  the rcon_password is airplane.
+karl   says:
+to exec commands on the server, first:
+> exec shirt.cfg
+> rcon map ctf2m1
+> rcon map dk_50   [this is the one we always play that krunch designed]
+> rcon serverinfo
+> rcon say hubba bubba ding dong
+> rcon status
+> rcon kick [userid]
+
+connect blondage.org
+karl   sent 2/15/2008 3:27 PM:
+i'm too lazy to type "connect", so i type "con" <tab> to do the command completion.   
+
+**************************************************
+
+This client & server installation is ready to go.  Just copy to a destination & run it.
+
+It contains:
+QuakeWorld 2.33-0005 client & server
+WinQuake 1.09
+
+Launch QuakeWorld client: qwcl.exe
+
+Launch QuakeWorld server: qwsv.exe +gamedir ctf
+
+Launch WinQuake single-player: winquake.exe
+
+on PC1, open a dos box, run \quake1\qwsv.exe +gamedir ctf
+then run qwcl.exe
+> exec shirt.cfg (or whatever your cfg is, u can start with my d.cfg as a reference)
+> connect 127.0.0.1
+on pc2, do just the qwcl and stuff below
+
+Rocket Arena: connect blondage.org:27501
+
+***************************************************
+
++mlook
+exec grapple.cfg
+cl_bob 0
+
+ctf1 - McKinley Base
+ctf2 - The Kiln
+ctf3 - Dysphoria
+ctf4 - The Forgotten Mines
+ctf5 - Da Ancient War Grounds
+ctf6 - Vertigo
+ctf7 - Tale of Two Cities
+
+ctf2m1 - McKinley Station
+ctf2m2 - The Warzone
+ctf2m3 - Spill the Blood
+ctf2m4 - Ruins of Neominonk
+ctf2m5 - Disciple War Grounds
+ctf2m6 - The Two Towers
+ctf2m7 - Gloom Castles
+
+dk_50 - Da Krunch's level

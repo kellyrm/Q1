@@ -1,0 +1,315 @@
+Mod Information
+-----------------------------
+
+Title : QW Competition Mod
+Filename : qwr325.zip
+Version : Release Candidate 3.25
+Date : 8/16/97
+Author : Steven Possehl
+Email : marmot@stomped.com
+Credits : id software, for being responsible for the complete disappearance
+of any freetime in my life
+
+Marmot's Note: This is the QW Competition server mod. It kicks the usual
+amount of booty that is customary for my mods.
+
+Description of the Modification
+-----------------------------
+
+This mod represents a competely new direction for programming for me. It is
+unique in the aspect that I really didn't want to do it. Really really
+didn't want to. I've been doing these clan mods for so long and taken so
+much crap from people in regards to the mod that i'm completely disgusted
+with it. However, the realities of the clan community have dictated that I
+must produce this version. This mod is also unique in its design. It
+represents a new direction in the design of the mod. The CR mod was based
+around observers. This mod has no observer capabilities at all. It is meant
+to be used by clans in their matches against other clans. I've realized
+that at some point, you really have to leave it up to the clans to play
+these matches. We really don't have the resources to hold everyone's hand.
+This mod has been designed to let clans run their own matches. If a clan
+cannot run a match without an observer, there really isn't much that I can
+do for them. This isn't elementary school anymore, I know that the clans
+have the ability to cut out the "crap" and get down to business. All this
+nonsense about cheating and ping advantages and stuff is just bad
+sportsmanship that has gotten out of hand. If we work together and
+cooperate, we can play matches fairly and smoothly.
+
+Notable Stuff in this Version
+-----------------------------
+
+v3.25 is in the second series of the QW Competition mod. The first series
+ended with v3.10 which I thought was fairly stable. I've started to get
+occasional reports of instability and bugs in certain situations so this
+second series is an effort to fix those problems. My primary emphasis has
+been on eliminating server crashes and minimizing telefrags on spawn. I
+believe that telefrags on spawn have been nearly eliminated in this
+version, however, I'm not 100% convinced that the spawn system will work
+correctly in a large match.
+
+This mod allows all server modifications to be done by localinfo and
+serverinfo. Check the server.cfg file for information on changing settings.
+
+This version is completely QW 2.0 compatible.
+
+Overview
+-----------------------------
+
+This server was designed to be controlled exclusively from the console, I
+believe that this is a superior method to the impulse command driven system
+that I previously used. Console commands do not require that keys be bound
+to certain little-used impulses and provide a much more intuitive means of
+interaction.
+
+However, it is possible to use access all functions outside of console by
+binding keys. Here is a list of general guidelines that will allow you to
+do this. I don't want to go into great depth here so if you have a question
+or suggestion for making something clearer, send email to me at
+marmot@stomped.com.
+
+First of all, you need to bind keys to the impulses of the commands that
+you would like to use. Particularly valuable bindings would be Warp and
+Admin.
+
+You need to make sure that 1 thru 0 is bound to impulse 1 through 10. You
+also need to make sure you have "yes" and "no", impulses 121 and 110
+respectively.
+
+Instructions - Setup
+-----------------------------
+
+Create a directory under your quake directory called qwcomp and extract the
+qwprogs.dat file into that dir. You will also need to copy the enclosed
+server.cfg file into your qw directory. You will most likely want to edit
+at least part of the servers.cfg file.
+
+Run qwsv.exe
+
+Commands - Players
+-----------------------------
+
+Ready ( impulse 40 ) ==> this signals the server that you are ready to play
+and you'd like to be placed on a team. It will then place you on a team if
+your team field matches one of the clan's team fields, or it will create a
+new clan if it doesn't. You cannot join a team when your team field is
+blank. If you receive the error "Invalid Team" you either have a blank
+field or there are already 2 teams and your team doesn't match either of
+them. Use "playerlist" to see the existing team fields.
+
+Note: When all players on a server have joined teams and the game is not
+being run by an observer, the game will automatically start at 1 minute
+countdown, once this is up, the match will begin.
+
+NotReady ( impulse 41 ) ==> this says that you're not happy with your
+current team. It will remove you from your team and eliminate your team if
+you were the last person remaining. It will also stop the countdown if the
+game is being run without an admin
+
+Playerlist ( impulse 80 ) ==> a very valuable command, this allows you to
+see the status of everyone on the server and to see what the team field of
+the existing teams are. Also tells how long each player has been dead
+total(if someone is much higher than everyone else, they've been playing
+dead.) and what skin they are using.
+
+Clanlist ( impulse 79 ) ==> same as above, but only for your clan.
+
+Warp ( impulse 48 ) ==> allows changing of levels. If you are not an admin,
+you need the approval of half of the people on the server, or a minimum of
+3 people to change levels. After you type in "warp" and hit enter, type in
+the episode number and hit enter and then hit the level number. It will
+then request that the remaining people on the server confirm that this is
+where you want to go. Once a sufficient number of people have typed "yes"
+at the console, the level will change.
+
+Note: Episode 5 is the deathmatch levels, and Episode 6 is the start level.
+
+Commands ( impulse 99 ) ==> gives a listing of all available commands.
+
+Admin ( impulse 51 ) ==> initiates admin authorization sequence. You are
+prompted for the 4 digit code. If you are unsuccessful at typing the code
+more than a couple times, the game assumes you are trying to hack the
+server and disconnects you. If you are already an admin, you will become a
+normal observer.
+
+Score ( impulse 76 ) ==> tells you the current score
+
+ViewRecord ( impulse 44 ) ==> gives the clan scores from the previous match
+
+ModStatus ( impulse 49 ) ==> gives information about current settings
+
+PlayerStats ( impulse 81 ) ==> Gives stats about players, such as kills,
+deaths, friendly kills, enemy kills
+
+ClanStats ( impulse 82 ) ==> Gives stats about clans, such as kills,
+deaths, friendly kills, enemy kills
+
+WeaponStats ( impulse 83 ) ==> Gives stats about your ammo usage, how much
+damage potential you've fired and how much damage you've actually
+inflicted, and the percentage
+
+Efficiency ( impulse 84 ) ==> Gives efficiency ratings about players,
+currently kill efficiency, frags per minute and ammo efficiency
+
+NoSwitch ( impulse 37 ) ==> This command was made obsolete by the addition
+of b_switch and w_switch into QW 1.55, barring any objections, I will be
+removing this command in the next version.
+
+Timerstart ( impulse 130 ) ==> Starts a vote to determine if the match will
+start. 70% of the players on the server much type in 'yes' to agree to the
+match start. Only active in Clan Mode.
+
+Elect ( impulse 38 ) ==> Starts a vote to determine if you will be given
+admin privilages. Used by clans to set server settings for clan matches.
+Only active in Clan Mode.
+
+Modeset ( impulse 147 ) ==> Starts a vote to determine if the server will
+be switch to clan mode. 70% of the players on the server must type in 'yes'
+to agree to the mode change. Only active in Skirmish Mode.
+
+Maps ( impulse 88 ) ==> Gives a list of the currently available custom maps
+
+Motd ( impulse 89 ) ==> Displays the server greeting
+
+Skinset ( impulse 90 ) ==> Sets all teammates to your skin and colors
+
+Commands - Admins
+-----------------------------
+
+These commands won't be explained in great depth, mainly because there are
+too many of them, and partially because my hands are getting sore from
+typing.
+
+Timerstart ( impulse 130 ) ==> starts the game timer in 10 minute rally/20
+minute game mode
+
+Timerstop ( impulse 133 ) ==> stops all timers and returns game to standby
+mode
+
+Timerup ( impulse 131 ) ==> adds one minute to current timer
+
+Timerdown ( impulse 132 ) ==> subtracts one minute from current timer
+
+Tlimitup ( impulse 142 ) ==> adds ten minutes to current timelimit
+
+Tlimitdown ( impulse 143 ) ==> subtracts ten minutes from timelimit
+
+Flimitup ( impulse 144 ) ==> adds ten to the fraglimit
+
+Flimitdown ( impulse 145 ) ==> subtracts ten from the fraglimit
+
+Noexitset ( impulse 146 ) ==> toggles noexit setting
+
+Matchup ( impulse 134 ) ==> adds ten minutes to match timer
+
+Matchdown ( impulse 135 ) ==> subtracts ten minutes from match timer
+
+Skick ( impulse 75 ) ==> initiates kick routine. game will then display the
+names of those on the server one by one. Use the "Yes" and "No" commands
+for each player.
+
+Showscore ( impulse 200 ) ==> shows the current clan score to everyone on
+the server
+
+Score ( impulse 76 ) ==> shows the current clan score to you
+
+Playerlist ( impulse 154 ) ==> same as listed in player commands
+
+Clearclans ( impulse 161 ) ==> clears all clan information, including
+removal of all individuals from each clan and removal of clan color
+information.
+
+This is NOT intended to be used except in rare occasions. All clan info is
+automatically wiped after each game, and use of this command during a game
+would have disasterous consequencies.
+
+Noexitset ( impulse 78 ) ==> toggles noexit
+
+Warp ( impulse 48 ) ==> same as in player commands, except that level
+change is instantaneous since approval of other players is not required.
+
+Commands ( impulse 99 ) ==> listing of currently available commands
+
+Dmset ( impulse 68 ) ==> Toggles between deathmatch modes
+
+Tmset ( impulse 140 ) ==> Toggles between teamplay modes
+
+Modeset ( impulse 147 ) ==> Toggles between skirmish and clan modes
+
+Timerpause ( impulse 45 ) ==> freezes the timer and all players
+
+ViewRecord ( impulse 44 ) ==> tells the scores from the previous match
+
+Lockout ( impulse 46 ) ==> toggles whether new clans can be created during
+a match
+
+Lockmax ( impulse 47 ) ==> toggles the number of players that can be on a
+team, available values are between 2 and 16
+
+Lockteam ( impulse 39 ) ==> toggles the number of teams that are allowed, 2
+is default, currently supports up to 8
+
+ModStatus ( impulse 49 ) ==> gives information about current settings
+
+Powerups ( impulse 85 ) ==> toggles what powerups are allowed in the game.
+Set to 1 to disable Pentagram, set to 2 to disable Quad, set to 3 to
+disable both
+
+Dedicated ( impulse 86 ) ==> toggles whether or not the server will
+automatically revert back to FFA mode from Competition mode
+
+Mute ( impulse 87 ) ==> toggles if spectators are allowed to talk to
+players in the game
+
+Pickup ( impulse 162 ) ==> clears all skins, teams, and colors for everyone
+not already on a team
+
+Effects ( impulse 163 ) ==> toggles if GL light effects are enabled
+
+Technical Details
+-----------------------------
+
+The organizational structure of this mod is based upon watching monkies in
+a zoo run around and punch each other.
+
+Author Information
+-----------------------------
+
+This is my second publicly distributed QuakeC patch.
+
+The first was "Marmot's Happy Fun Server Mod"
+It sucked.
+This one is better.
+
+I'm a Senior Mechanical Engineer at Virginia Tech. I have no programming
+experience whatsoever with the exception of Fortran.
+
+Copyright and Distribution Permissions
+-----------------------------
+
+The modifications included in this archive are Copyright 1997, Steven
+Possehl. The original QuakeC source is Copyright 1996, id software.
+
+You may distribute this Quake modification in any electronic format as long
+as all the files in this archive remain intact and unmodified and are
+distributed together.
+
+This patch may be run on a quake server under the following conditions:
+A: No fee may be charged for the use of the server, either directly or
+indirectly
+B: This mod is intended to be installed on servers for Clanlink
+competitions. Running of this mod implies consent to use your server in
+Clanlink events.
+B: The server is not used in any non-Clanlink competition without prior
+approval of Marmot(marmot@stomped.com)
+
+You may not post this Quake modification on a server, such as a WWW or FTP
+server since it is a beta. My beta's tend to average about 6 hours before
+they become obsolete, therefore, wide distribution would result in alot of
+people running an obsolete version. The final release will be widely
+available.
+
+Availability
+-----------------------------
+
+Our site is located at http://clanlink.stomped.com The mod should be
+available in the Server Mod section.

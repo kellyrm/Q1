@@ -1,0 +1,50 @@
+BSPINFO(1)                  General Commands Manual                 BSPINFO(1)
+
+
+
+NAME
+       bspinfo - print basic information about a Quake BSP file
+
+
+SYNOPSIS
+       bspinfo BSPFILE
+
+
+DESCRIPTION
+       bspinfo  will  print  a very basic summary of the internal data in BSP-
+       FILE.  The BSP version number is printed, followed by one line for each
+       of  the  data  types inside, giving the count and data size in bytes of
+       each data type.
+
+       If the filename BSPFILE does not have a .bsp  extension,  bsputil  will
+       look  for  a .bsp file by stripping the file extension from BSPFILE (if
+       any) and appending ".bsp".
+
+
+AUTHOR
+       Written by Kevin Shanahan (aka Tyrann)
+       Based on source provided by id Software
+       http://disenchant.net
+
+
+REPORTING BUGS
+       Please send bug reports to tyrann@disenchant.net.
+       Improvements to the documentation are welcome and encouraged.
+
+
+COPYRIGHT
+       Copyright (C) 2013 Kevin Shanahan
+       Copyright (C) 1997 id Software
+       License GPLv2+:  GNU GPL version 2 or later
+       <http://gnu.org/licenses/gpl2.html>.
+
+       This is free software: you are free  to  change  and  redistribute  it.
+       There is NO WARRANTY, to the extent permitted by law.
+
+
+SEE ALSO
+       qbsp(1) light(1) vis(1) bsputil(1) quake(6)
+
+
+
+TYRUTILS                       2013-04-24 v0.15                     BSPINFO(1)

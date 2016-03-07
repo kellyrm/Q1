@@ -1,0 +1,47 @@
+=============================================================
+Title                        : The Forgotten Outpost
+Filename                     : ctfpost.bsp
+Email Address                : bglines@apeleon.net
+Misc. Author Info            : uhh, i live on earth. i have made some other mapsas follows...
+                               dc3 <--- my first map, lots of fullbright areas, hehe
+                               Fortress of Corruption <-- in the Qauekworld32 player Project, which
+                               hasn't been released at the time of this writing
+                               NoGod <-- i entered this one in the Qcon97 map contest, i will post 
+                               it on ftp.cdrom.com if i doesn't win, hehehe
+
+Description                  : Base style level, designed primarily for ctf.  Has lots of water
+                               and lots of items and stuff...  Also, this is my first venture 
+                               into ctf map design, so if ya like it, tell me, if ya don't tell me
+                               whats wrong!
+
+Additional Credits to        : ID, for Quake... myself for not ripping my hair out trying to align
+                               textures and stuff  =)
+
+=============================================================
+
+* Play Information *
+
+Game                         : Quake (duh)
+Single Player                : Have a nice look
+Cooperative                  : nah... what are you thinkin anyway? ;)
+Capture The Flag             : yeah, was designed for this
+Deathmatch                   : hmm, i guess you could... but it wasn't made for it
+
+* Construction *
+
+Base                         : New level from scratch (and my evil mind >:Þ)
+Editor used                  : qED!  Completely beats out WorldCraft btw...
+Time to Build                : About a week, off and on
+Compile time                 : qbsp = about 1hour light -extra = about 5min vis -level 4 = about 2min
+Known Bugs                   : None
+
+* Copyright / Permissions *
+
+You can use this as a base to make your levels, if you have a bsp --> map converter
+, or if you just want to use some of my ideas, just send me an email
+
+Do whatever the hell you want with this file!
+
+* Where you can get this m0f0 *
+
+I guess you already know if you are reading this

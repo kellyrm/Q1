@@ -1,0 +1,26 @@
+Launch Quake1\qwcl.exe
+
+'connect 192.168.47.146' (or whatever my IP address is)
+
+Set display to 1024x768 (Esc, Options, Video)
+
+Bring up console with '~' keystroke. Add these three settings:
+
+'+mlook'
+'exec grapple.cfg'
+'cl_bob 0'
+
+----------------------
+
+Capture the Flag
+1 pt. for a kill
+15 points for a capture
+5 points for returning the flag
+
+four runes:
+Strength (2x damage)
+Resist (take half damage)
+Haste (shoot and run 2x faster)
+Regen (continually brings up your health and armor to 150)
+
+Quad is 4x damage. Lasts 30 seconds.

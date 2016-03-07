@@ -1,0 +1,2457 @@
+6020 2014-10-25 15:37:57: Renderer info: GeForce GTX 770/PCIe/SSE2 version 4.4.0 NVIDIA 344.11 from NVIDIA Corporation
+6020 2014-10-25 15:37:57: Depth buffer bits: 32
+6020 2014-10-25 15:37:57: Multisampling disabled
+6020 2014-10-25 15:37:57: OpenGL instancing enabled
+6020 2014-10-25 15:37:57: Created Edge Shader Program
+6020 2014-10-25 15:37:57: Created Edge.vertsh
+6020 2014-10-25 15:37:57: Created Edge.fragsh
+6020 2014-10-25 15:37:57: Created Entity Model Shader Program
+6020 2014-10-25 15:37:57: Created EntityModel.vertsh
+6020 2014-10-25 15:37:57: Created EntityModel.fragsh
+6020 2014-10-25 15:37:57: Loading 'progs/player.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/player.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/armor.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/armor.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/armor.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/armor.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/armor.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/armor.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/suit.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/suit.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/invisibl.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/invisibl.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/invulner.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/invulner.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/quaddama.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/quaddama.mdl'
+6020 2014-10-25 15:37:57: Loading 'maps/b_batt0.bsp' (searching )
+6020 2014-10-25 15:37:57: Unable to find BSP 'maps/b_batt0.bsp'
+6020 2014-10-25 15:37:57: Loading 'maps/b_bh25.bsp' (searching )
+6020 2014-10-25 15:37:57: Unable to find BSP 'maps/b_bh25.bsp'
+6020 2014-10-25 15:37:57: Loading 'progs/w_s_key.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/w_s_key.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/w_g_key.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/w_g_key.mdl'
+6020 2014-10-25 15:37:57: Loading 'maps/b_rock0.bsp' (searching )
+6020 2014-10-25 15:37:57: Unable to find BSP 'maps/b_rock0.bsp'
+6020 2014-10-25 15:37:57: Loading 'maps/b_shell0.bsp' (searching )
+6020 2014-10-25 15:37:57: Unable to find BSP 'maps/b_shell0.bsp'
+6020 2014-10-25 15:37:57: Loading 'progs/end1.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/end1.mdl'
+6020 2014-10-25 15:37:57: Loading 'maps/b_nail0.bsp' (searching )
+6020 2014-10-25 15:37:57: Unable to find BSP 'maps/b_nail0.bsp'
+6020 2014-10-25 15:37:57: Loading 'progs/flame2.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/flame2.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/flame.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/flame.mdl'
+6020 2014-10-25 15:37:57: Loading 'maps/b_explob.bsp' (searching )
+6020 2014-10-25 15:37:57: Unable to find BSP 'maps/b_explob.bsp'
+6020 2014-10-25 15:37:57: Loading 'maps/b_exbox2.bsp' (searching )
+6020 2014-10-25 15:37:57: Unable to find BSP 'maps/b_exbox2.bsp'
+6020 2014-10-25 15:37:57: Loading 'progs/teleport.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/teleport.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/soldier.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/soldier.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/boss.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/boss.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/demon.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/demon.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/dog.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/dog.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/enforcer.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/enforcer.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/fish.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/fish.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/hknight.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/hknight.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/knight.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/knight.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/ogre.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/ogre.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/oldone.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/oldone.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/shalrath.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/shalrath.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/shambler.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/shambler.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/tarbaby.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/tarbaby.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/wizard.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/wizard.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/zombie.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/zombie.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/g_rock.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/g_rock.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/g_light.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/g_light.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/g_nail.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/g_nail.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/g_rock2.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/g_rock2.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/g_nail2.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/g_nail2.mdl'
+6020 2014-10-25 15:37:57: Loading 'progs/g_shot.mdl' (searching )
+6020 2014-10-25 15:37:57: Unable to find MDL 'progs/g_shot.mdl'
+6020 2014-10-25 15:37:57: Created Face Shader Program
+6020 2014-10-25 15:37:57: Created Face.vertsh
+6020 2014-10-25 15:37:57: Created Face.fragsh
+6020 2014-10-25 15:37:57: Created Colored Edge Shader Program
+6020 2014-10-25 15:37:57: Created ColoredEdge.vertsh
+6020 2014-10-25 15:37:57: Created Text Shader Program
+6020 2014-10-25 15:37:57: Created Text.vertsh
+6020 2014-10-25 15:37:57: Created Text.fragsh
+6020 2014-10-25 15:37:57: Created Text Background Shader Program
+6020 2014-10-25 15:37:57: Created TextBackground.vertsh
+6020 2014-10-25 15:37:57: Created TextBackground.fragsh
+6020 2014-10-25 15:37:57: Created Compass Shader Program
+6020 2014-10-25 15:37:57: Created Compass.vertsh
+6020 2014-10-25 15:37:57: Created Compass.fragsh
+6020 2014-10-25 15:37:57: Created Browser Group Shader Program
+6020 2014-10-25 15:37:57: Created BrowserGroup.vertsh
+6020 2014-10-25 15:37:57: Created BrowserGroup.fragsh
+6020 2014-10-25 15:38:00: Autosave directory created at autosave
+6020 2014-10-25 15:38:00: Autosaved to autosave\unnamed1 1.map in 0.004000 seconds
+4492 2014-10-25 15:38:04: Renderer info: GeForce GTX 770/PCIe/SSE2 version 4.4.0 NVIDIA 344.11 from NVIDIA Corporation
+4492 2014-10-25 15:38:04: Depth buffer bits: 32
+4492 2014-10-25 15:38:04: Multisampling disabled
+4492 2014-10-25 15:38:04: OpenGL instancing enabled
+4492 2014-10-25 15:38:04: Created Edge Shader Program
+4492 2014-10-25 15:38:04: Created Edge.vertsh
+4492 2014-10-25 15:38:04: Created Edge.fragsh
+4492 2014-10-25 15:38:04: Created Entity Model Shader Program
+4492 2014-10-25 15:38:04: Created EntityModel.vertsh
+4492 2014-10-25 15:38:04: Created EntityModel.fragsh
+4492 2014-10-25 15:38:04: Loading 'progs/player.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/player.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/armor.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/armor.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/armor.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/armor.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/armor.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/armor.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/suit.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/suit.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/invisibl.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/invisibl.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/invulner.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/invulner.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/quaddama.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/quaddama.mdl'
+4492 2014-10-25 15:38:04: Loading 'maps/b_batt0.bsp' (searching )
+4492 2014-10-25 15:38:04: Unable to find BSP 'maps/b_batt0.bsp'
+4492 2014-10-25 15:38:04: Loading 'maps/b_bh25.bsp' (searching )
+4492 2014-10-25 15:38:04: Unable to find BSP 'maps/b_bh25.bsp'
+4492 2014-10-25 15:38:04: Loading 'progs/w_s_key.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/w_s_key.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/w_g_key.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/w_g_key.mdl'
+4492 2014-10-25 15:38:04: Loading 'maps/b_rock0.bsp' (searching )
+4492 2014-10-25 15:38:04: Unable to find BSP 'maps/b_rock0.bsp'
+4492 2014-10-25 15:38:04: Loading 'maps/b_shell0.bsp' (searching )
+4492 2014-10-25 15:38:04: Unable to find BSP 'maps/b_shell0.bsp'
+4492 2014-10-25 15:38:04: Loading 'progs/end1.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/end1.mdl'
+4492 2014-10-25 15:38:04: Loading 'maps/b_nail0.bsp' (searching )
+4492 2014-10-25 15:38:04: Unable to find BSP 'maps/b_nail0.bsp'
+4492 2014-10-25 15:38:04: Loading 'progs/flame2.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/flame2.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/flame.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/flame.mdl'
+4492 2014-10-25 15:38:04: Loading 'maps/b_explob.bsp' (searching )
+4492 2014-10-25 15:38:04: Unable to find BSP 'maps/b_explob.bsp'
+4492 2014-10-25 15:38:04: Loading 'maps/b_exbox2.bsp' (searching )
+4492 2014-10-25 15:38:04: Unable to find BSP 'maps/b_exbox2.bsp'
+4492 2014-10-25 15:38:04: Loading 'progs/teleport.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/teleport.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/soldier.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/soldier.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/boss.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/boss.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/demon.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/demon.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/dog.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/dog.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/enforcer.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/enforcer.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/fish.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/fish.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/hknight.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/hknight.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/knight.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/knight.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/ogre.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/ogre.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/oldone.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/oldone.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/shalrath.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/shalrath.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/shambler.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/shambler.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/tarbaby.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/tarbaby.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/wizard.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/wizard.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/zombie.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/zombie.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/g_rock.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/g_rock.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/g_light.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/g_light.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/g_nail.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/g_nail.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/g_rock2.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/g_rock2.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/g_nail2.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/g_nail2.mdl'
+4492 2014-10-25 15:38:04: Loading 'progs/g_shot.mdl' (searching )
+4492 2014-10-25 15:38:04: Unable to find MDL 'progs/g_shot.mdl'
+4492 2014-10-25 15:38:04: Created Face Shader Program
+4492 2014-10-25 15:38:04: Created Face.vertsh
+4492 2014-10-25 15:38:04: Created Face.fragsh
+4492 2014-10-25 15:38:04: Created Colored Edge Shader Program
+4492 2014-10-25 15:38:04: Created ColoredEdge.vertsh
+4492 2014-10-25 15:38:04: Created Text Shader Program
+4492 2014-10-25 15:38:04: Created Text.vertsh
+4492 2014-10-25 15:38:04: Created Text.fragsh
+4492 2014-10-25 15:38:04: Created Text Background Shader Program
+4492 2014-10-25 15:38:04: Created TextBackground.vertsh
+4492 2014-10-25 15:38:04: Created TextBackground.fragsh
+4492 2014-10-25 15:38:04: Created Compass Shader Program
+4492 2014-10-25 15:38:04: Created Compass.vertsh
+4492 2014-10-25 15:38:04: Created Compass.fragsh
+4492 2014-10-25 15:38:04: Created Browser Group Shader Program
+4492 2014-10-25 15:38:04: Created BrowserGroup.vertsh
+4492 2014-10-25 15:38:04: Created BrowserGroup.fragsh
+4492 2014-10-25 15:38:05: Autosaved to autosave\unnamed1 1.map in 0.001000 seconds
+5604 2014-10-25 15:38:35: Renderer info: GeForce GTX 770/PCIe/SSE2 version 4.4.0 NVIDIA 344.11 from NVIDIA Corporation
+5604 2014-10-25 15:38:35: Depth buffer bits: 32
+5604 2014-10-25 15:38:35: Multisampling disabled
+5604 2014-10-25 15:38:35: OpenGL instancing enabled
+5604 2014-10-25 15:38:36: Created Edge Shader Program
+5604 2014-10-25 15:38:36: Created Edge.vertsh
+5604 2014-10-25 15:38:36: Created Edge.fragsh
+5604 2014-10-25 15:38:36: Created Entity Model Shader Program
+5604 2014-10-25 15:38:36: Created EntityModel.vertsh
+5604 2014-10-25 15:38:36: Created EntityModel.fragsh
+5604 2014-10-25 15:38:36: Loading 'progs/player.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/player.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/armor.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/armor.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/armor.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/armor.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/armor.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/armor.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/suit.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/suit.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/invisibl.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/invisibl.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/invulner.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/invulner.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/quaddama.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/quaddama.mdl'
+5604 2014-10-25 15:38:36: Loading 'maps/b_batt0.bsp' (searching )
+5604 2014-10-25 15:38:36: Unable to find BSP 'maps/b_batt0.bsp'
+5604 2014-10-25 15:38:36: Loading 'maps/b_bh25.bsp' (searching )
+5604 2014-10-25 15:38:36: Unable to find BSP 'maps/b_bh25.bsp'
+5604 2014-10-25 15:38:36: Loading 'progs/w_s_key.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/w_s_key.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/w_g_key.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/w_g_key.mdl'
+5604 2014-10-25 15:38:36: Loading 'maps/b_rock0.bsp' (searching )
+5604 2014-10-25 15:38:36: Unable to find BSP 'maps/b_rock0.bsp'
+5604 2014-10-25 15:38:36: Loading 'maps/b_shell0.bsp' (searching )
+5604 2014-10-25 15:38:36: Unable to find BSP 'maps/b_shell0.bsp'
+5604 2014-10-25 15:38:36: Loading 'progs/end1.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/end1.mdl'
+5604 2014-10-25 15:38:36: Loading 'maps/b_nail0.bsp' (searching )
+5604 2014-10-25 15:38:36: Unable to find BSP 'maps/b_nail0.bsp'
+5604 2014-10-25 15:38:36: Loading 'progs/flame2.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/flame2.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/flame.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/flame.mdl'
+5604 2014-10-25 15:38:36: Loading 'maps/b_explob.bsp' (searching )
+5604 2014-10-25 15:38:36: Unable to find BSP 'maps/b_explob.bsp'
+5604 2014-10-25 15:38:36: Loading 'maps/b_exbox2.bsp' (searching )
+5604 2014-10-25 15:38:36: Unable to find BSP 'maps/b_exbox2.bsp'
+5604 2014-10-25 15:38:36: Loading 'progs/teleport.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/teleport.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/soldier.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/soldier.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/boss.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/boss.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/demon.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/demon.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/dog.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/dog.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/enforcer.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/enforcer.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/fish.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/fish.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/hknight.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/hknight.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/knight.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/knight.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/ogre.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/ogre.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/oldone.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/oldone.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/shalrath.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/shalrath.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/shambler.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/shambler.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/tarbaby.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/tarbaby.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/wizard.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/wizard.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/zombie.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/zombie.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/g_rock.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/g_rock.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/g_light.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/g_light.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/g_nail.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/g_nail.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/g_rock2.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/g_rock2.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/g_nail2.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/g_nail2.mdl'
+5604 2014-10-25 15:38:36: Loading 'progs/g_shot.mdl' (searching )
+5604 2014-10-25 15:38:36: Unable to find MDL 'progs/g_shot.mdl'
+5604 2014-10-25 15:38:36: Created Face Shader Program
+5604 2014-10-25 15:38:36: Created Face.vertsh
+5604 2014-10-25 15:38:36: Created Face.fragsh
+5604 2014-10-25 15:38:36: Created Colored Edge Shader Program
+5604 2014-10-25 15:38:36: Created ColoredEdge.vertsh
+5604 2014-10-25 15:38:36: Created Text Shader Program
+5604 2014-10-25 15:38:36: Created Text.vertsh
+5604 2014-10-25 15:38:36: Created Text.fragsh
+5604 2014-10-25 15:38:36: Created Text Background Shader Program
+5604 2014-10-25 15:38:36: Created TextBackground.vertsh
+5604 2014-10-25 15:38:36: Created TextBackground.fragsh
+5604 2014-10-25 15:38:36: Created Compass Shader Program
+5604 2014-10-25 15:38:36: Created Compass.vertsh
+5604 2014-10-25 15:38:36: Created Compass.fragsh
+5604 2014-10-25 15:38:36: Created Browser Group Shader Program
+5604 2014-10-25 15:38:36: Created BrowserGroup.vertsh
+5604 2014-10-25 15:38:36: Created BrowserGroup.fragsh
+5604 2014-10-25 15:38:50: Created Handle Shader Program
+5604 2014-10-25 15:38:50: Created Handle.vertsh
+5604 2014-10-25 15:38:50: Created Handle.fragsh
+5604 2014-10-25 15:42:17: Loading 'progs/player.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'progs/armor.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'progs/suit.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'progs/invisibl.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'progs/invulner.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'progs/quaddama.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'maps/b_batt0.bsp' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'maps/b_bh25.bsp' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'progs/w_s_key.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'progs/w_g_key.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'maps/b_rock0.bsp' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'maps/b_shell0.bsp' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'progs/end1.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'maps/b_nail0.bsp' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'progs/flame2.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:17: Loading 'progs/flame.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'maps/b_explob.bsp' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'maps/b_exbox2.bsp' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/teleport.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/soldier.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/boss.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/demon.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/dog.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/enforcer.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/fish.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/hknight.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/knight.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/ogre.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/oldone.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/shalrath.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/shambler.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/tarbaby.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/wizard.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/zombie.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/g_rock.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/g_light.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/g_nail.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/g_rock2.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/g_nail2.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:18: Loading 'progs/g_shot.mdl' (searching D:\Q1\Quake1\ID1)
+5604 2014-10-25 15:42:34: Created Texture Browser Shader Program
+5604 2014-10-25 15:42:34: Created TextureBrowser.vertsh
+5604 2014-10-25 15:42:34: Created TextureBrowser.fragsh
+5604 2014-10-25 15:49:10: Autosave directory created at autosave
+5604 2014-10-25 15:49:10: Autosaved to autosave\unnamed2 1.map in 0.005000 seconds
+3556 2015-02-13 22:24:35: Renderer info: GeForce GTX 770/PCIe/SSE2 version 4.4.0 NVIDIA 344.75 from NVIDIA Corporation
+3556 2015-02-13 22:24:35: Depth buffer bits: 32
+3556 2015-02-13 22:24:35: Multisampling disabled
+3556 2015-02-13 22:24:35: OpenGL instancing enabled
+3556 2015-02-13 22:24:35: Created Edge Shader Program
+3556 2015-02-13 22:24:35: Created Edge.vertsh
+3556 2015-02-13 22:24:35: Created Edge.fragsh
+3556 2015-02-13 22:24:35: Created Entity Model Shader Program
+3556 2015-02-13 22:24:35: Created EntityModel.vertsh
+3556 2015-02-13 22:24:35: Created EntityModel.fragsh
+3556 2015-02-13 22:24:35: Loading 'progs/player.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/player.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/armor.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/armor.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/armor.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/armor.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/armor.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/armor.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/suit.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/suit.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/invisibl.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/invisibl.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/invulner.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/invulner.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/quaddama.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/quaddama.mdl'
+3556 2015-02-13 22:24:35: Loading 'maps/b_batt0.bsp' (searching )
+3556 2015-02-13 22:24:35: Unable to find BSP 'maps/b_batt0.bsp'
+3556 2015-02-13 22:24:35: Loading 'maps/b_bh25.bsp' (searching )
+3556 2015-02-13 22:24:35: Unable to find BSP 'maps/b_bh25.bsp'
+3556 2015-02-13 22:24:35: Loading 'progs/w_s_key.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/w_s_key.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/w_g_key.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/w_g_key.mdl'
+3556 2015-02-13 22:24:35: Loading 'maps/b_rock0.bsp' (searching )
+3556 2015-02-13 22:24:35: Unable to find BSP 'maps/b_rock0.bsp'
+3556 2015-02-13 22:24:35: Loading 'maps/b_shell0.bsp' (searching )
+3556 2015-02-13 22:24:35: Unable to find BSP 'maps/b_shell0.bsp'
+3556 2015-02-13 22:24:35: Loading 'progs/end1.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/end1.mdl'
+3556 2015-02-13 22:24:35: Loading 'maps/b_nail0.bsp' (searching )
+3556 2015-02-13 22:24:35: Unable to find BSP 'maps/b_nail0.bsp'
+3556 2015-02-13 22:24:35: Loading 'progs/flame2.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/flame2.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/flame.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/flame.mdl'
+3556 2015-02-13 22:24:35: Loading 'maps/b_explob.bsp' (searching )
+3556 2015-02-13 22:24:35: Unable to find BSP 'maps/b_explob.bsp'
+3556 2015-02-13 22:24:35: Loading 'maps/b_exbox2.bsp' (searching )
+3556 2015-02-13 22:24:35: Unable to find BSP 'maps/b_exbox2.bsp'
+3556 2015-02-13 22:24:35: Loading 'progs/teleport.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/teleport.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/soldier.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/soldier.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/boss.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/boss.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/demon.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/demon.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/dog.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/dog.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/enforcer.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/enforcer.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/fish.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/fish.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/hknight.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/hknight.mdl'
+3556 2015-02-13 22:24:35: Loading 'progs/knight.mdl' (searching )
+3556 2015-02-13 22:24:35: Unable to find MDL 'progs/knight.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/ogre.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/ogre.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/oldone.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/oldone.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/shalrath.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/shalrath.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/shambler.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/shambler.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/tarbaby.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/tarbaby.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/wizard.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/wizard.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/zombie.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/zombie.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/g_rock.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/g_rock.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/g_light.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/g_light.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/g_nail.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/g_nail.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/g_rock2.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/g_rock2.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/g_nail2.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/g_nail2.mdl'
+3556 2015-02-13 22:24:36: Loading 'progs/g_shot.mdl' (searching )
+3556 2015-02-13 22:24:36: Unable to find MDL 'progs/g_shot.mdl'
+3556 2015-02-13 22:24:36: Created Face Shader Program
+3556 2015-02-13 22:24:36: Created Face.vertsh
+3556 2015-02-13 22:24:36: Created Face.fragsh
+3556 2015-02-13 22:24:36: Created Colored Edge Shader Program
+3556 2015-02-13 22:24:36: Created ColoredEdge.vertsh
+3556 2015-02-13 22:24:36: Created Text Shader Program
+3556 2015-02-13 22:24:36: Created Text.vertsh
+3556 2015-02-13 22:24:36: Created Text.fragsh
+3556 2015-02-13 22:24:36: Created Text Background Shader Program
+3556 2015-02-13 22:24:36: Created TextBackground.vertsh
+3556 2015-02-13 22:24:36: Created TextBackground.fragsh
+3556 2015-02-13 22:24:36: Created Compass Shader Program
+3556 2015-02-13 22:24:36: Created Compass.vertsh
+3556 2015-02-13 22:24:36: Created Compass.fragsh
+3556 2015-02-13 22:24:36: Created Browser Group Shader Program
+3556 2015-02-13 22:24:36: Created BrowserGroup.vertsh
+3556 2015-02-13 22:24:36: Created BrowserGroup.fragsh
+3556 2015-02-13 22:24:42: Created Texture Browser Shader Program
+3556 2015-02-13 22:24:42: Created TextureBrowser.vertsh
+3556 2015-02-13 22:24:42: Created TextureBrowser.fragsh
+3556 2015-02-13 22:26:01: Created Handle Shader Program
+3556 2015-02-13 22:26:01: Created Handle.vertsh
+3556 2015-02-13 22:26:01: Created Handle.fragsh
+3556 2015-02-13 22:32:51: Unloading existing map file and textures...
+3556 2015-02-13 22:32:51: Loading file D:\Programs\Q1\Quake1\autosave\autosave\unnamed2 1.map
+3556 2015-02-13 22:32:51: Assuming floating point plane coordinates
+3556 2015-02-13 22:32:51: Loaded map file in 0.002000 seconds
+3556 2015-02-13 22:34:35: Autosave directory created at D:\Programs\Q1\Quake1\autosave\autosave\autosave
+3556 2015-02-13 22:34:35: Autosaved to D:\Programs\Q1\Quake1\autosave\autosave\autosave\unnamed2 1 1.map in 0.001000 seconds
+3556 2015-02-13 22:37:42: Saved map file to D:\Programs\Q1\Quake1\autosave\autosave\unnamed2 1.map in 0.007000 seconds
+3556 2015-02-13 22:37:43: Created Compass Outline Shader Program
+3556 2015-02-13 22:37:43: Created CompassOutline.vertsh
+3556 2015-02-13 22:38:47: Autosaved to D:\Programs\Q1\Quake1\autosave\autosave\autosave\unnamed2 1 2.map in 0.003000 seconds
+3516 2015-02-16 16:16:30: Renderer info: GeForce GTX 770/PCIe/SSE2 version 4.4.0 NVIDIA 344.75 from NVIDIA Corporation
+3516 2015-02-16 16:16:30: Depth buffer bits: 32
+3516 2015-02-16 16:16:30: Multisampling disabled
+3516 2015-02-16 16:16:30: OpenGL instancing enabled
+3516 2015-02-16 16:16:30: Created Edge Shader Program
+3516 2015-02-16 16:16:30: Created Edge.vertsh
+3516 2015-02-16 16:16:30: Created Edge.fragsh
+3516 2015-02-16 16:16:30: Created Entity Model Shader Program
+3516 2015-02-16 16:16:30: Created EntityModel.vertsh
+3516 2015-02-16 16:16:30: Created EntityModel.fragsh
+3516 2015-02-16 16:16:31: Loading 'progs/player.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/player.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/armor.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/armor.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/armor.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/armor.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/armor.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/armor.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/suit.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/suit.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/invisibl.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/invisibl.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/invulner.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/invulner.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/quaddama.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/quaddama.mdl'
+3516 2015-02-16 16:16:31: Loading 'maps/b_batt0.bsp' (searching )
+3516 2015-02-16 16:16:31: Unable to find BSP 'maps/b_batt0.bsp'
+3516 2015-02-16 16:16:31: Loading 'maps/b_bh25.bsp' (searching )
+3516 2015-02-16 16:16:31: Unable to find BSP 'maps/b_bh25.bsp'
+3516 2015-02-16 16:16:31: Loading 'progs/w_s_key.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/w_s_key.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/w_g_key.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/w_g_key.mdl'
+3516 2015-02-16 16:16:31: Loading 'maps/b_rock0.bsp' (searching )
+3516 2015-02-16 16:16:31: Unable to find BSP 'maps/b_rock0.bsp'
+3516 2015-02-16 16:16:31: Loading 'maps/b_shell0.bsp' (searching )
+3516 2015-02-16 16:16:31: Unable to find BSP 'maps/b_shell0.bsp'
+3516 2015-02-16 16:16:31: Loading 'progs/end1.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/end1.mdl'
+3516 2015-02-16 16:16:31: Loading 'maps/b_nail0.bsp' (searching )
+3516 2015-02-16 16:16:31: Unable to find BSP 'maps/b_nail0.bsp'
+3516 2015-02-16 16:16:31: Loading 'progs/flame2.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/flame2.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/flame.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/flame.mdl'
+3516 2015-02-16 16:16:31: Loading 'maps/b_explob.bsp' (searching )
+3516 2015-02-16 16:16:31: Unable to find BSP 'maps/b_explob.bsp'
+3516 2015-02-16 16:16:31: Loading 'maps/b_exbox2.bsp' (searching )
+3516 2015-02-16 16:16:31: Unable to find BSP 'maps/b_exbox2.bsp'
+3516 2015-02-16 16:16:31: Loading 'progs/teleport.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/teleport.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/soldier.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/soldier.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/boss.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/boss.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/demon.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/demon.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/dog.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/dog.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/enforcer.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/enforcer.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/fish.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/fish.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/hknight.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/hknight.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/knight.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/knight.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/ogre.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/ogre.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/oldone.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/oldone.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/shalrath.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/shalrath.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/shambler.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/shambler.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/tarbaby.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/tarbaby.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/wizard.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/wizard.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/zombie.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/zombie.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/g_rock.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/g_rock.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/g_light.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/g_light.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/g_nail.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/g_nail.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/g_rock2.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/g_rock2.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/g_nail2.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/g_nail2.mdl'
+3516 2015-02-16 16:16:31: Loading 'progs/g_shot.mdl' (searching )
+3516 2015-02-16 16:16:31: Unable to find MDL 'progs/g_shot.mdl'
+3516 2015-02-16 16:16:31: Created Face Shader Program
+3516 2015-02-16 16:16:31: Created Face.vertsh
+3516 2015-02-16 16:16:31: Created Face.fragsh
+3516 2015-02-16 16:16:31: Created Colored Edge Shader Program
+3516 2015-02-16 16:16:31: Created ColoredEdge.vertsh
+3516 2015-02-16 16:16:31: Created Text Shader Program
+3516 2015-02-16 16:16:31: Created Text.vertsh
+3516 2015-02-16 16:16:31: Created Text.fragsh
+3516 2015-02-16 16:16:31: Created Text Background Shader Program
+3516 2015-02-16 16:16:31: Created TextBackground.vertsh
+3516 2015-02-16 16:16:31: Created TextBackground.fragsh
+3516 2015-02-16 16:16:31: Created Compass Shader Program
+3516 2015-02-16 16:16:31: Created Compass.vertsh
+3516 2015-02-16 16:16:31: Created Compass.fragsh
+3516 2015-02-16 16:16:31: Created Browser Group Shader Program
+3516 2015-02-16 16:16:31: Created BrowserGroup.vertsh
+3516 2015-02-16 16:16:31: Created BrowserGroup.fragsh
+3516 2015-02-16 16:18:21: Created Compass Outline Shader Program
+3516 2015-02-16 16:18:21: Created CompassOutline.vertsh
+3516 2015-02-16 16:58:44: Autosave directory created at autosave
+3516 2015-02-16 16:58:44: Autosaved to autosave\unnamed1 1.map in 0.004000 seconds
+320 2015-09-13 17:58:50: Renderer info: GeForce GTX 770/PCIe/SSE2 version 4.5.0 NVIDIA 355.60 from NVIDIA Corporation
+320 2015-09-13 17:58:50: Depth buffer bits: 32
+320 2015-09-13 17:58:50: Multisampling disabled
+320 2015-09-13 17:58:50: OpenGL instancing enabled
+320 2015-09-13 17:58:52: Unloading existing map file and textures...
+320 2015-09-13 17:58:52: Created Edge Shader Program
+320 2015-09-13 17:58:52: Created Edge.vertsh
+320 2015-09-13 17:58:52: Created Edge.fragsh
+320 2015-09-13 17:58:52: Created Entity Model Shader Program
+320 2015-09-13 17:58:52: Created EntityModel.vertsh
+320 2015-09-13 17:58:52: Created EntityModel.fragsh
+320 2015-09-13 17:58:52: Loading file D:\Programs\Q1\Quake1\fortress\maps\unholyk.bsp
+320 2015-09-13 17:58:52: Malformed map file: expected token of type opening brace, or closing brace, but found string at line 1, column 1
+320 2015-09-13 17:58:52: Loaded map file in 0.006000 seconds
+320 2015-09-13 17:58:52: Loading 'progs/player.mdl' (searching )
+320 2015-09-13 17:58:52: Unable to find MDL 'progs/player.mdl'
+320 2015-09-13 17:58:52: Loading 'progs/armor.mdl' (searching )
+320 2015-09-13 17:58:52: Unable to find MDL 'progs/armor.mdl'
+320 2015-09-13 17:58:52: Loading 'progs/armor.mdl' (searching )
+320 2015-09-13 17:58:52: Unable to find MDL 'progs/armor.mdl'
+320 2015-09-13 17:58:52: Loading 'progs/armor.mdl' (searching )
+320 2015-09-13 17:58:52: Unable to find MDL 'progs/armor.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/suit.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/suit.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/invisibl.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/invisibl.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/invulner.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/invulner.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/quaddama.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/quaddama.mdl'
+320 2015-09-13 17:58:53: Loading 'maps/b_batt0.bsp' (searching )
+320 2015-09-13 17:58:53: Unable to find BSP 'maps/b_batt0.bsp'
+320 2015-09-13 17:58:53: Loading 'maps/b_bh25.bsp' (searching )
+320 2015-09-13 17:58:53: Unable to find BSP 'maps/b_bh25.bsp'
+320 2015-09-13 17:58:53: Loading 'progs/w_s_key.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/w_s_key.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/w_g_key.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/w_g_key.mdl'
+320 2015-09-13 17:58:53: Loading 'maps/b_rock0.bsp' (searching )
+320 2015-09-13 17:58:53: Unable to find BSP 'maps/b_rock0.bsp'
+320 2015-09-13 17:58:53: Loading 'maps/b_shell0.bsp' (searching )
+320 2015-09-13 17:58:53: Unable to find BSP 'maps/b_shell0.bsp'
+320 2015-09-13 17:58:53: Loading 'progs/end1.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/end1.mdl'
+320 2015-09-13 17:58:53: Loading 'maps/b_nail0.bsp' (searching )
+320 2015-09-13 17:58:53: Unable to find BSP 'maps/b_nail0.bsp'
+320 2015-09-13 17:58:53: Loading 'progs/flame2.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/flame2.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/flame.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/flame.mdl'
+320 2015-09-13 17:58:53: Loading 'maps/b_explob.bsp' (searching )
+320 2015-09-13 17:58:53: Unable to find BSP 'maps/b_explob.bsp'
+320 2015-09-13 17:58:53: Loading 'maps/b_exbox2.bsp' (searching )
+320 2015-09-13 17:58:53: Unable to find BSP 'maps/b_exbox2.bsp'
+320 2015-09-13 17:58:53: Loading 'progs/teleport.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/teleport.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/soldier.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/soldier.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/boss.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/boss.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/demon.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/demon.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/dog.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/dog.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/enforcer.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/enforcer.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/fish.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/fish.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/hknight.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/hknight.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/knight.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/knight.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/ogre.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/ogre.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/oldone.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/oldone.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/shalrath.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/shalrath.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/shambler.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/shambler.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/tarbaby.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/tarbaby.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/wizard.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/wizard.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/zombie.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/zombie.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/g_rock.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/g_rock.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/g_light.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/g_light.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/g_nail.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/g_nail.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/g_rock2.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/g_rock2.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/g_nail2.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/g_nail2.mdl'
+320 2015-09-13 17:58:53: Loading 'progs/g_shot.mdl' (searching )
+320 2015-09-13 17:58:53: Unable to find MDL 'progs/g_shot.mdl'
+320 2015-09-13 17:58:53: Created Text Shader Program
+320 2015-09-13 17:58:53: Created Text.vertsh
+320 2015-09-13 17:58:53: Created Text.fragsh
+320 2015-09-13 17:58:53: Created Text Background Shader Program
+320 2015-09-13 17:58:53: Created TextBackground.vertsh
+320 2015-09-13 17:58:53: Created TextBackground.fragsh
+320 2015-09-13 17:58:53: Created Compass Shader Program
+320 2015-09-13 17:58:53: Created Compass.vertsh
+320 2015-09-13 17:58:53: Created Compass.fragsh
+320 2015-09-13 17:58:53: Created Browser Group Shader Program
+320 2015-09-13 17:58:53: Created BrowserGroup.vertsh
+320 2015-09-13 17:58:53: Created BrowserGroup.fragsh
+320 2015-09-13 17:58:59: Created Face Shader Program
+320 2015-09-13 17:58:59: Created Face.vertsh
+320 2015-09-13 17:58:59: Created Face.fragsh
+320 2015-09-13 17:59:05: Created Colored Edge Shader Program
+320 2015-09-13 17:59:05: Created ColoredEdge.vertsh
+320 2015-09-13 17:59:14: Autosave directory created at D:\Programs\Q1\Quake1\fortress\maps\autosave
+320 2015-09-13 17:59:14: Autosaved to D:\Programs\Q1\Quake1\fortress\maps\autosave\unholyk 1.map in 0.005000 seconds
+4288 2015-09-13 18:08:19: Renderer info: GeForce GTX 770/PCIe/SSE2 version 4.5.0 NVIDIA 355.60 from NVIDIA Corporation
+4288 2015-09-13 18:08:19: Depth buffer bits: 32
+4288 2015-09-13 18:08:19: Multisampling disabled
+4288 2015-09-13 18:08:19: OpenGL instancing enabled
+4288 2015-09-13 18:08:19: Unloading existing map file and textures...
+4288 2015-09-13 18:08:19: Created Edge Shader Program
+4288 2015-09-13 18:08:19: Created Edge.vertsh
+4288 2015-09-13 18:08:19: Created Edge.fragsh
+4288 2015-09-13 18:08:19: Created Entity Model Shader Program
+4288 2015-09-13 18:08:19: Created EntityModel.vertsh
+4288 2015-09-13 18:08:19: Created EntityModel.fragsh
+4288 2015-09-13 18:08:20: Loading file D:\Programs\Q1\Quake1\fortress\maps\autosave\unholyk 1.map
+4288 2015-09-13 18:08:20: Assuming floating point plane coordinates
+4288 2015-09-13 18:08:20: Loaded map file in 0.003000 seconds
+4288 2015-09-13 18:08:20: Loading 'progs/player.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/player.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/armor.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/armor.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/armor.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/armor.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/armor.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/armor.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/suit.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/suit.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/invisibl.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/invisibl.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/invulner.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/invulner.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/quaddama.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/quaddama.mdl'
+4288 2015-09-13 18:08:20: Loading 'maps/b_batt0.bsp' (searching )
+4288 2015-09-13 18:08:20: Unable to find BSP 'maps/b_batt0.bsp'
+4288 2015-09-13 18:08:20: Loading 'maps/b_bh25.bsp' (searching )
+4288 2015-09-13 18:08:20: Unable to find BSP 'maps/b_bh25.bsp'
+4288 2015-09-13 18:08:20: Loading 'progs/w_s_key.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/w_s_key.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/w_g_key.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/w_g_key.mdl'
+4288 2015-09-13 18:08:20: Loading 'maps/b_rock0.bsp' (searching )
+4288 2015-09-13 18:08:20: Unable to find BSP 'maps/b_rock0.bsp'
+4288 2015-09-13 18:08:20: Loading 'maps/b_shell0.bsp' (searching )
+4288 2015-09-13 18:08:20: Unable to find BSP 'maps/b_shell0.bsp'
+4288 2015-09-13 18:08:20: Loading 'progs/end1.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/end1.mdl'
+4288 2015-09-13 18:08:20: Loading 'maps/b_nail0.bsp' (searching )
+4288 2015-09-13 18:08:20: Unable to find BSP 'maps/b_nail0.bsp'
+4288 2015-09-13 18:08:20: Loading 'progs/flame2.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/flame2.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/flame.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/flame.mdl'
+4288 2015-09-13 18:08:20: Loading 'maps/b_explob.bsp' (searching )
+4288 2015-09-13 18:08:20: Unable to find BSP 'maps/b_explob.bsp'
+4288 2015-09-13 18:08:20: Loading 'maps/b_exbox2.bsp' (searching )
+4288 2015-09-13 18:08:20: Unable to find BSP 'maps/b_exbox2.bsp'
+4288 2015-09-13 18:08:20: Loading 'progs/teleport.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/teleport.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/soldier.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/soldier.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/boss.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/boss.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/demon.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/demon.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/dog.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/dog.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/enforcer.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/enforcer.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/fish.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/fish.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/hknight.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/hknight.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/knight.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/knight.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/ogre.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/ogre.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/oldone.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/oldone.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/shalrath.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/shalrath.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/shambler.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/shambler.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/tarbaby.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/tarbaby.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/wizard.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/wizard.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/zombie.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/zombie.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/g_rock.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/g_rock.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/g_light.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/g_light.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/g_nail.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/g_nail.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/g_rock2.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/g_rock2.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/g_nail2.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/g_nail2.mdl'
+4288 2015-09-13 18:08:20: Loading 'progs/g_shot.mdl' (searching )
+4288 2015-09-13 18:08:20: Unable to find MDL 'progs/g_shot.mdl'
+4288 2015-09-13 18:08:20: Created Text Shader Program
+4288 2015-09-13 18:08:20: Created Text.vertsh
+4288 2015-09-13 18:08:20: Created Text.fragsh
+4288 2015-09-13 18:08:20: Created Text Background Shader Program
+4288 2015-09-13 18:08:20: Created TextBackground.vertsh
+4288 2015-09-13 18:08:20: Created TextBackground.fragsh
+4288 2015-09-13 18:08:20: Created Compass Shader Program
+4288 2015-09-13 18:08:20: Created Compass.vertsh
+4288 2015-09-13 18:08:20: Created Compass.fragsh
+4288 2015-09-13 18:08:20: Created Browser Group Shader Program
+4288 2015-09-13 18:08:20: Created BrowserGroup.vertsh
+4288 2015-09-13 18:08:20: Created BrowserGroup.fragsh
+4288 2015-09-13 18:08:31: Autosave directory created at D:\Programs\Q1\Quake1\fortress\maps\autosave\autosave
+4288 2015-09-13 18:08:31: Autosaved to D:\Programs\Q1\Quake1\fortress\maps\autosave\autosave\unholyk 1 1.map in 0.004000 seconds
+6816 2015-09-13 18:08:46: Renderer info: GeForce GTX 770/PCIe/SSE2 version 4.5.0 NVIDIA 355.60 from NVIDIA Corporation
+6816 2015-09-13 18:08:46: Depth buffer bits: 32
+6816 2015-09-13 18:08:46: Multisampling disabled
+6816 2015-09-13 18:08:46: OpenGL instancing enabled
+6816 2015-09-13 18:08:46: Unloading existing map file and textures...
+6816 2015-09-13 18:08:46: Created Edge Shader Program
+6816 2015-09-13 18:08:46: Created Edge.vertsh
+6816 2015-09-13 18:08:46: Created Edge.fragsh
+6816 2015-09-13 18:08:46: Created Entity Model Shader Program
+6816 2015-09-13 18:08:46: Created EntityModel.vertsh
+6816 2015-09-13 18:08:46: Created EntityModel.fragsh
+6816 2015-09-13 18:08:46: Loading file D:\Programs\Q1\Quake1\fortress\maps\unholyk.bsp
+6816 2015-09-13 18:08:46: Malformed map file: expected token of type opening brace, or closing brace, but found string at line 1, column 1
+6816 2015-09-13 18:08:46: Loaded map file in 0.003000 seconds
+6816 2015-09-13 18:08:46: Loading 'progs/player.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/player.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/armor.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/armor.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/armor.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/armor.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/armor.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/armor.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/suit.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/suit.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/invisibl.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/invisibl.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/invulner.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/invulner.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/quaddama.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/quaddama.mdl'
+6816 2015-09-13 18:08:46: Loading 'maps/b_batt0.bsp' (searching )
+6816 2015-09-13 18:08:46: Unable to find BSP 'maps/b_batt0.bsp'
+6816 2015-09-13 18:08:46: Loading 'maps/b_bh25.bsp' (searching )
+6816 2015-09-13 18:08:46: Unable to find BSP 'maps/b_bh25.bsp'
+6816 2015-09-13 18:08:46: Loading 'progs/w_s_key.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/w_s_key.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/w_g_key.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/w_g_key.mdl'
+6816 2015-09-13 18:08:46: Loading 'maps/b_rock0.bsp' (searching )
+6816 2015-09-13 18:08:46: Unable to find BSP 'maps/b_rock0.bsp'
+6816 2015-09-13 18:08:46: Loading 'maps/b_shell0.bsp' (searching )
+6816 2015-09-13 18:08:46: Unable to find BSP 'maps/b_shell0.bsp'
+6816 2015-09-13 18:08:46: Loading 'progs/end1.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/end1.mdl'
+6816 2015-09-13 18:08:46: Loading 'maps/b_nail0.bsp' (searching )
+6816 2015-09-13 18:08:46: Unable to find BSP 'maps/b_nail0.bsp'
+6816 2015-09-13 18:08:46: Loading 'progs/flame2.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/flame2.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/flame.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/flame.mdl'
+6816 2015-09-13 18:08:46: Loading 'maps/b_explob.bsp' (searching )
+6816 2015-09-13 18:08:46: Unable to find BSP 'maps/b_explob.bsp'
+6816 2015-09-13 18:08:46: Loading 'maps/b_exbox2.bsp' (searching )
+6816 2015-09-13 18:08:46: Unable to find BSP 'maps/b_exbox2.bsp'
+6816 2015-09-13 18:08:46: Loading 'progs/teleport.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/teleport.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/soldier.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/soldier.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/boss.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/boss.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/demon.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/demon.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/dog.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/dog.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/enforcer.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/enforcer.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/fish.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/fish.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/hknight.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/hknight.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/knight.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/knight.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/ogre.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/ogre.mdl'
+6816 2015-09-13 18:08:46: Loading 'progs/oldone.mdl' (searching )
+6816 2015-09-13 18:08:46: Unable to find MDL 'progs/oldone.mdl'
+6816 2015-09-13 18:08:47: Loading 'progs/shalrath.mdl' (searching )
+6816 2015-09-13 18:08:47: Unable to find MDL 'progs/shalrath.mdl'
+6816 2015-09-13 18:08:47: Loading 'progs/shambler.mdl' (searching )
+6816 2015-09-13 18:08:47: Unable to find MDL 'progs/shambler.mdl'
+6816 2015-09-13 18:08:47: Loading 'progs/tarbaby.mdl' (searching )
+6816 2015-09-13 18:08:47: Unable to find MDL 'progs/tarbaby.mdl'
+6816 2015-09-13 18:08:47: Loading 'progs/wizard.mdl' (searching )
+6816 2015-09-13 18:08:47: Unable to find MDL 'progs/wizard.mdl'
+6816 2015-09-13 18:08:47: Loading 'progs/zombie.mdl' (searching )
+6816 2015-09-13 18:08:47: Unable to find MDL 'progs/zombie.mdl'
+6816 2015-09-13 18:08:47: Loading 'progs/g_rock.mdl' (searching )
+6816 2015-09-13 18:08:47: Unable to find MDL 'progs/g_rock.mdl'
+6816 2015-09-13 18:08:47: Loading 'progs/g_light.mdl' (searching )
+6816 2015-09-13 18:08:47: Unable to find MDL 'progs/g_light.mdl'
+6816 2015-09-13 18:08:47: Loading 'progs/g_nail.mdl' (searching )
+6816 2015-09-13 18:08:47: Unable to find MDL 'progs/g_nail.mdl'
+6816 2015-09-13 18:08:47: Loading 'progs/g_rock2.mdl' (searching )
+6816 2015-09-13 18:08:47: Unable to find MDL 'progs/g_rock2.mdl'
+6816 2015-09-13 18:08:47: Loading 'progs/g_nail2.mdl' (searching )
+6816 2015-09-13 18:08:47: Unable to find MDL 'progs/g_nail2.mdl'
+6816 2015-09-13 18:08:47: Loading 'progs/g_shot.mdl' (searching )
+6816 2015-09-13 18:08:47: Unable to find MDL 'progs/g_shot.mdl'
+6816 2015-09-13 18:08:47: Created Text Shader Program
+6816 2015-09-13 18:08:47: Created Text.vertsh
+6816 2015-09-13 18:08:47: Created Text.fragsh
+6816 2015-09-13 18:08:47: Created Text Background Shader Program
+6816 2015-09-13 18:08:47: Created TextBackground.vertsh
+6816 2015-09-13 18:08:47: Created TextBackground.fragsh
+6816 2015-09-13 18:08:47: Created Compass Shader Program
+6816 2015-09-13 18:08:47: Created Compass.vertsh
+6816 2015-09-13 18:08:47: Created Compass.fragsh
+6816 2015-09-13 18:08:47: Created Browser Group Shader Program
+6816 2015-09-13 18:08:47: Created BrowserGroup.vertsh
+6816 2015-09-13 18:08:47: Created BrowserGroup.fragsh
+6816 2015-09-13 18:10:28: Autosaved to D:\Programs\Q1\Quake1\fortress\maps\autosave\unholyk 2.map in 0.001000 seconds
+5920 2015-09-13 18:12:12: Renderer info: GeForce GTX 770/PCIe/SSE2 version 4.5.0 NVIDIA 355.60 from NVIDIA Corporation
+5920 2015-09-13 18:12:12: Depth buffer bits: 32
+5920 2015-09-13 18:12:12: Multisampling disabled
+5920 2015-09-13 18:12:12: OpenGL instancing enabled
+5920 2015-09-13 18:12:12: Unloading existing map file and textures...
+5920 2015-09-13 18:12:12: Created Edge Shader Program
+5920 2015-09-13 18:12:12: Created Edge.vertsh
+5920 2015-09-13 18:12:12: Created Edge.fragsh
+5920 2015-09-13 18:12:12: Created Entity Model Shader Program
+5920 2015-09-13 18:12:12: Created EntityModel.vertsh
+5920 2015-09-13 18:12:12: Created EntityModel.fragsh
+5920 2015-09-13 18:12:12: Loading file D:\Programs\Q1\Quake1\qw\maps\hohoho.bsp
+5920 2015-09-13 18:12:12: Malformed map file: expected token of type opening brace, or closing brace, but found string at line 1, column 1
+5920 2015-09-13 18:12:12: Loaded map file in 0.003000 seconds
+5920 2015-09-13 18:12:12: Loading 'progs/player.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/player.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/armor.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/armor.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/armor.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/armor.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/armor.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/armor.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/suit.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/suit.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/invisibl.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/invisibl.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/invulner.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/invulner.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/quaddama.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/quaddama.mdl'
+5920 2015-09-13 18:12:12: Loading 'maps/b_batt0.bsp' (searching )
+5920 2015-09-13 18:12:12: Unable to find BSP 'maps/b_batt0.bsp'
+5920 2015-09-13 18:12:12: Loading 'maps/b_bh25.bsp' (searching )
+5920 2015-09-13 18:12:12: Unable to find BSP 'maps/b_bh25.bsp'
+5920 2015-09-13 18:12:12: Loading 'progs/w_s_key.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/w_s_key.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/w_g_key.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/w_g_key.mdl'
+5920 2015-09-13 18:12:12: Loading 'maps/b_rock0.bsp' (searching )
+5920 2015-09-13 18:12:12: Unable to find BSP 'maps/b_rock0.bsp'
+5920 2015-09-13 18:12:12: Loading 'maps/b_shell0.bsp' (searching )
+5920 2015-09-13 18:12:12: Unable to find BSP 'maps/b_shell0.bsp'
+5920 2015-09-13 18:12:12: Loading 'progs/end1.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/end1.mdl'
+5920 2015-09-13 18:12:12: Loading 'maps/b_nail0.bsp' (searching )
+5920 2015-09-13 18:12:12: Unable to find BSP 'maps/b_nail0.bsp'
+5920 2015-09-13 18:12:12: Loading 'progs/flame2.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/flame2.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/flame.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/flame.mdl'
+5920 2015-09-13 18:12:12: Loading 'maps/b_explob.bsp' (searching )
+5920 2015-09-13 18:12:12: Unable to find BSP 'maps/b_explob.bsp'
+5920 2015-09-13 18:12:12: Loading 'maps/b_exbox2.bsp' (searching )
+5920 2015-09-13 18:12:12: Unable to find BSP 'maps/b_exbox2.bsp'
+5920 2015-09-13 18:12:12: Loading 'progs/teleport.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/teleport.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/soldier.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/soldier.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/boss.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/boss.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/demon.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/demon.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/dog.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/dog.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/enforcer.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/enforcer.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/fish.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/fish.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/hknight.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/hknight.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/knight.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/knight.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/ogre.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/ogre.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/oldone.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/oldone.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/shalrath.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/shalrath.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/shambler.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/shambler.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/tarbaby.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/tarbaby.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/wizard.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/wizard.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/zombie.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/zombie.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/g_rock.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/g_rock.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/g_light.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/g_light.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/g_nail.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/g_nail.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/g_rock2.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/g_rock2.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/g_nail2.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/g_nail2.mdl'
+5920 2015-09-13 18:12:12: Loading 'progs/g_shot.mdl' (searching )
+5920 2015-09-13 18:12:12: Unable to find MDL 'progs/g_shot.mdl'
+5920 2015-09-13 18:12:12: Created Text Shader Program
+5920 2015-09-13 18:12:12: Created Text.vertsh
+5920 2015-09-13 18:12:12: Created Text.fragsh
+5920 2015-09-13 18:12:12: Created Text Background Shader Program
+5920 2015-09-13 18:12:12: Created TextBackground.vertsh
+5920 2015-09-13 18:12:12: Created TextBackground.fragsh
+5920 2015-09-13 18:12:12: Created Compass Shader Program
+5920 2015-09-13 18:12:12: Created Compass.vertsh
+5920 2015-09-13 18:12:12: Created Compass.fragsh
+5920 2015-09-13 18:12:12: Created Browser Group Shader Program
+5920 2015-09-13 18:12:12: Created BrowserGroup.vertsh
+5920 2015-09-13 18:12:12: Created BrowserGroup.fragsh
+5920 2015-09-13 18:12:23: Autosave directory created at D:\Programs\Q1\Quake1\qw\maps\autosave
+5920 2015-09-13 18:12:23: Autosaved to D:\Programs\Q1\Quake1\qw\maps\autosave\hohoho 1.map in 0.001000 seconds
+2500 2016-01-30 10:10:54: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+2500 2016-01-30 10:10:54: Depth buffer bits: 32
+2500 2016-01-30 10:10:54: Multisampling disabled
+2500 2016-01-30 10:10:54: OpenGL instancing enabled
+2500 2016-01-30 10:10:54: Created Edge Shader Program
+2500 2016-01-30 10:10:54: Created Edge.vertsh
+2500 2016-01-30 10:10:54: Created Edge.fragsh
+2500 2016-01-30 10:10:54: Created Entity Model Shader Program
+2500 2016-01-30 10:10:54: Created EntityModel.vertsh
+2500 2016-01-30 10:10:54: Created EntityModel.fragsh
+2500 2016-01-30 10:10:54: Loading 'progs/player.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/player.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/armor.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/armor.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/armor.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/armor.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/armor.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/armor.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/suit.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/suit.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/invisibl.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/invisibl.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/invulner.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/invulner.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/quaddama.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/quaddama.mdl'
+2500 2016-01-30 10:10:54: Loading 'maps/b_batt0.bsp' (searching )
+2500 2016-01-30 10:10:54: Unable to find BSP 'maps/b_batt0.bsp'
+2500 2016-01-30 10:10:54: Loading 'maps/b_bh25.bsp' (searching )
+2500 2016-01-30 10:10:54: Unable to find BSP 'maps/b_bh25.bsp'
+2500 2016-01-30 10:10:54: Loading 'progs/w_s_key.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/w_s_key.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/w_g_key.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/w_g_key.mdl'
+2500 2016-01-30 10:10:54: Loading 'maps/b_rock0.bsp' (searching )
+2500 2016-01-30 10:10:54: Unable to find BSP 'maps/b_rock0.bsp'
+2500 2016-01-30 10:10:54: Loading 'maps/b_shell0.bsp' (searching )
+2500 2016-01-30 10:10:54: Unable to find BSP 'maps/b_shell0.bsp'
+2500 2016-01-30 10:10:54: Loading 'progs/end1.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/end1.mdl'
+2500 2016-01-30 10:10:54: Loading 'maps/b_nail0.bsp' (searching )
+2500 2016-01-30 10:10:54: Unable to find BSP 'maps/b_nail0.bsp'
+2500 2016-01-30 10:10:54: Loading 'progs/flame2.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/flame2.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/flame.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/flame.mdl'
+2500 2016-01-30 10:10:54: Loading 'maps/b_explob.bsp' (searching )
+2500 2016-01-30 10:10:54: Unable to find BSP 'maps/b_explob.bsp'
+2500 2016-01-30 10:10:54: Loading 'maps/b_exbox2.bsp' (searching )
+2500 2016-01-30 10:10:54: Unable to find BSP 'maps/b_exbox2.bsp'
+2500 2016-01-30 10:10:54: Loading 'progs/teleport.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/teleport.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/soldier.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/soldier.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/boss.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/boss.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/demon.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/demon.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/dog.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/dog.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/enforcer.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/enforcer.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/fish.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/fish.mdl'
+2500 2016-01-30 10:10:54: Loading 'progs/hknight.mdl' (searching )
+2500 2016-01-30 10:10:54: Unable to find MDL 'progs/hknight.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/knight.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/knight.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/ogre.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/ogre.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/oldone.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/oldone.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/shalrath.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/shalrath.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/shambler.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/shambler.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/tarbaby.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/tarbaby.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/wizard.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/wizard.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/zombie.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/zombie.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/g_rock.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/g_rock.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/g_light.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/g_light.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/g_nail.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/g_nail.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/g_rock2.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/g_rock2.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/g_nail2.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/g_nail2.mdl'
+2500 2016-01-30 10:10:55: Loading 'progs/g_shot.mdl' (searching )
+2500 2016-01-30 10:10:55: Unable to find MDL 'progs/g_shot.mdl'
+2500 2016-01-30 10:10:55: Created Face Shader Program
+2500 2016-01-30 10:10:55: Created Face.vertsh
+2500 2016-01-30 10:10:55: Created Face.fragsh
+2500 2016-01-30 10:10:55: Created Colored Edge Shader Program
+2500 2016-01-30 10:10:55: Created ColoredEdge.vertsh
+2500 2016-01-30 10:10:55: Created Text Shader Program
+2500 2016-01-30 10:10:55: Created Text.vertsh
+2500 2016-01-30 10:10:55: Created Text.fragsh
+2500 2016-01-30 10:10:55: Created Text Background Shader Program
+2500 2016-01-30 10:10:55: Created TextBackground.vertsh
+2500 2016-01-30 10:10:55: Created TextBackground.fragsh
+2500 2016-01-30 10:10:55: Created Compass Shader Program
+2500 2016-01-30 10:10:55: Created Compass.vertsh
+2500 2016-01-30 10:10:55: Created Compass.fragsh
+2500 2016-01-30 10:10:55: Created Browser Group Shader Program
+2500 2016-01-30 10:10:55: Created BrowserGroup.vertsh
+2500 2016-01-30 10:10:55: Created BrowserGroup.fragsh
+2500 2016-01-30 10:12:01: Created Texture Browser Shader Program
+2500 2016-01-30 10:12:01: Created TextureBrowser.vertsh
+2500 2016-01-30 10:12:01: Created TextureBrowser.fragsh
+2500 2016-01-30 10:13:11: Unloading existing map file and textures...
+2500 2016-01-30 10:13:11: Loading file C:\Users\Kelly\0 krm\Quake\Quake1\qw\maps\autosave\hohoho 1.map
+2500 2016-01-30 10:13:11: Assuming floating point plane coordinates
+2500 2016-01-30 10:13:11: Loaded map file in 0.006000 seconds
+2500 2016-01-30 10:13:27: Created Handle Shader Program
+2500 2016-01-30 10:13:27: Created Handle.vertsh
+2500 2016-01-30 10:13:27: Created Handle.fragsh
+8136 2016-02-01 10:06:29: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+8136 2016-02-01 10:06:29: Depth buffer bits: 32
+8136 2016-02-01 10:06:29: Multisampling disabled
+8136 2016-02-01 10:06:29: OpenGL instancing enabled
+8136 2016-02-01 10:06:29: Created Edge Shader Program
+8136 2016-02-01 10:06:29: Created Edge.vertsh
+8136 2016-02-01 10:06:29: Created Edge.fragsh
+8136 2016-02-01 10:06:29: Created Entity Model Shader Program
+8136 2016-02-01 10:06:29: Created EntityModel.vertsh
+8136 2016-02-01 10:06:29: Created EntityModel.fragsh
+8136 2016-02-01 10:06:29: Loading 'progs/player.mdl' (searching )
+8136 2016-02-01 10:06:29: Unable to find MDL 'progs/player.mdl'
+8136 2016-02-01 10:06:29: Loading 'progs/armor.mdl' (searching )
+8136 2016-02-01 10:06:29: Unable to find MDL 'progs/armor.mdl'
+8136 2016-02-01 10:06:29: Loading 'progs/armor.mdl' (searching )
+8136 2016-02-01 10:06:29: Unable to find MDL 'progs/armor.mdl'
+8136 2016-02-01 10:06:29: Loading 'progs/armor.mdl' (searching )
+8136 2016-02-01 10:06:29: Unable to find MDL 'progs/armor.mdl'
+8136 2016-02-01 10:06:29: Loading 'progs/suit.mdl' (searching )
+8136 2016-02-01 10:06:29: Unable to find MDL 'progs/suit.mdl'
+8136 2016-02-01 10:06:29: Loading 'progs/invisibl.mdl' (searching )
+8136 2016-02-01 10:06:29: Unable to find MDL 'progs/invisibl.mdl'
+8136 2016-02-01 10:06:29: Loading 'progs/invulner.mdl' (searching )
+8136 2016-02-01 10:06:29: Unable to find MDL 'progs/invulner.mdl'
+8136 2016-02-01 10:06:29: Loading 'progs/quaddama.mdl' (searching )
+8136 2016-02-01 10:06:29: Unable to find MDL 'progs/quaddama.mdl'
+8136 2016-02-01 10:06:29: Loading 'maps/b_batt0.bsp' (searching )
+8136 2016-02-01 10:06:30: Unable to find BSP 'maps/b_batt0.bsp'
+8136 2016-02-01 10:06:30: Loading 'maps/b_bh25.bsp' (searching )
+8136 2016-02-01 10:06:30: Unable to find BSP 'maps/b_bh25.bsp'
+8136 2016-02-01 10:06:30: Loading 'progs/w_s_key.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/w_s_key.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/w_g_key.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/w_g_key.mdl'
+8136 2016-02-01 10:06:30: Loading 'maps/b_rock0.bsp' (searching )
+8136 2016-02-01 10:06:30: Unable to find BSP 'maps/b_rock0.bsp'
+8136 2016-02-01 10:06:30: Loading 'maps/b_shell0.bsp' (searching )
+8136 2016-02-01 10:06:30: Unable to find BSP 'maps/b_shell0.bsp'
+8136 2016-02-01 10:06:30: Loading 'progs/end1.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/end1.mdl'
+8136 2016-02-01 10:06:30: Loading 'maps/b_nail0.bsp' (searching )
+8136 2016-02-01 10:06:30: Unable to find BSP 'maps/b_nail0.bsp'
+8136 2016-02-01 10:06:30: Loading 'progs/flame2.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/flame2.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/flame.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/flame.mdl'
+8136 2016-02-01 10:06:30: Loading 'maps/b_explob.bsp' (searching )
+8136 2016-02-01 10:06:30: Unable to find BSP 'maps/b_explob.bsp'
+8136 2016-02-01 10:06:30: Loading 'maps/b_exbox2.bsp' (searching )
+8136 2016-02-01 10:06:30: Unable to find BSP 'maps/b_exbox2.bsp'
+8136 2016-02-01 10:06:30: Loading 'progs/teleport.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/teleport.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/soldier.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/soldier.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/boss.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/boss.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/demon.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/demon.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/dog.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/dog.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/enforcer.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/enforcer.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/fish.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/fish.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/hknight.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/hknight.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/knight.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/knight.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/ogre.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/ogre.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/oldone.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/oldone.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/shalrath.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/shalrath.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/shambler.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/shambler.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/tarbaby.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/tarbaby.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/wizard.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/wizard.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/zombie.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/zombie.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/g_rock.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/g_rock.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/g_light.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/g_light.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/g_nail.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/g_nail.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/g_rock2.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/g_rock2.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/g_nail2.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/g_nail2.mdl'
+8136 2016-02-01 10:06:30: Loading 'progs/g_shot.mdl' (searching )
+8136 2016-02-01 10:06:30: Unable to find MDL 'progs/g_shot.mdl'
+8136 2016-02-01 10:06:30: Created Face Shader Program
+8136 2016-02-01 10:06:30: Created Face.vertsh
+8136 2016-02-01 10:06:30: Created Face.fragsh
+8136 2016-02-01 10:06:30: Created Colored Edge Shader Program
+8136 2016-02-01 10:06:30: Created ColoredEdge.vertsh
+8136 2016-02-01 10:06:30: Created Text Shader Program
+8136 2016-02-01 10:06:30: Created Text.vertsh
+8136 2016-02-01 10:06:30: Created Text.fragsh
+8136 2016-02-01 10:06:30: Created Text Background Shader Program
+8136 2016-02-01 10:06:30: Created TextBackground.vertsh
+8136 2016-02-01 10:06:30: Created TextBackground.fragsh
+8136 2016-02-01 10:06:30: Created Compass Shader Program
+8136 2016-02-01 10:06:30: Created Compass.vertsh
+8136 2016-02-01 10:06:30: Created Compass.fragsh
+8136 2016-02-01 10:06:30: Created Browser Group Shader Program
+8136 2016-02-01 10:06:30: Created BrowserGroup.vertsh
+8136 2016-02-01 10:06:30: Created BrowserGroup.fragsh
+8136 2016-02-01 10:06:56: Created Texture Browser Shader Program
+8136 2016-02-01 10:06:56: Created TextureBrowser.vertsh
+8136 2016-02-01 10:06:56: Created TextureBrowser.fragsh
+8136 2016-02-01 10:08:45: Created Handle Shader Program
+8136 2016-02-01 10:08:45: Created Handle.vertsh
+8136 2016-02-01 10:08:45: Created Handle.fragsh
+8136 2016-02-01 13:24:30: Created Compass Outline Shader Program
+8136 2016-02-01 13:24:30: Created CompassOutline.vertsh
+8136 2016-02-01 13:53:49: Saved map file to C:\Users\Kelly\0 krm\Quake\Quake1\qw\maps\autosave\test1.map in 0.004000 seconds
+8136 2016-02-01 13:53:49: Autosave directory created at C:\Users\Kelly\0 krm\Quake\Quake1\qw\maps\autosave\autosave
+8136 2016-02-01 13:53:49: Autosaved to C:\Users\Kelly\0 krm\Quake\Quake1\qw\maps\autosave\autosave\test1 1.map in 0.005000 seconds
+8136 2016-02-01 14:11:55: Loading 'progs/player.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:55: Loading 'progs/armor.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:55: Loading 'progs/suit.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:55: Loading 'progs/invisibl.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:55: Loading 'progs/invulner.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/quaddama.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'maps/b_batt0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'maps/b_bh25.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/w_s_key.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/w_g_key.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'maps/b_rock0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'maps/b_shell0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/end1.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'maps/b_nail0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/flame2.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/flame.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'maps/b_explob.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'maps/b_exbox2.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/teleport.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/soldier.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/boss.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/demon.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/dog.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/enforcer.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/fish.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/hknight.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/knight.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/ogre.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/oldone.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/shalrath.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/shambler.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/tarbaby.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/wizard.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/zombie.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/g_rock.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/g_light.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/g_nail.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/g_rock2.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/g_nail2.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:11:56: Loading 'progs/g_shot.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+8136 2016-02-01 14:20:40: Created Texture Browser Border Shader Program
+8136 2016-02-01 14:20:40: Created TextureBrowserBorder.vertsh
+8136 2016-02-01 14:20:40: Created TextureBrowserBorder.fragsh
+8136 2016-02-01 14:20:48: Saved map file to C:\Users\Kelly\0 krm\Quake\Quake1\qw\maps\autosave\test1.map in 0.009000 seconds
+8136 2016-02-01 14:20:49: Autosaved to C:\Users\Kelly\0 krm\Quake\Quake1\qw\maps\autosave\autosave\test1 2.map in 0.003000 seconds
+6288 2016-02-01 14:24:19: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+6288 2016-02-01 14:24:19: Depth buffer bits: 32
+6288 2016-02-01 14:24:19: Multisampling disabled
+6288 2016-02-01 14:24:19: OpenGL instancing enabled
+6288 2016-02-01 14:24:19: Created Edge Shader Program
+6288 2016-02-01 14:24:19: Created Edge.vertsh
+6288 2016-02-01 14:24:19: Created Edge.fragsh
+6288 2016-02-01 14:24:19: Created Entity Model Shader Program
+6288 2016-02-01 14:24:19: Created EntityModel.vertsh
+6288 2016-02-01 14:24:19: Created EntityModel.fragsh
+6288 2016-02-01 14:24:19: Loading 'progs/player.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/armor.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/suit.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/invisibl.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/invulner.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/quaddama.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'maps/b_batt0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'maps/b_bh25.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/w_s_key.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/w_g_key.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'maps/b_rock0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'maps/b_shell0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/end1.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'maps/b_nail0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/flame2.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/flame.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'maps/b_explob.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'maps/b_exbox2.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/teleport.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/soldier.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/boss.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/demon.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/dog.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/enforcer.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:19: Loading 'progs/fish.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/hknight.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/knight.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/ogre.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/oldone.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/shalrath.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/shambler.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/tarbaby.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/wizard.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/zombie.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/g_rock.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/g_light.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/g_nail.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/g_rock2.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/g_nail2.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Loading 'progs/g_shot.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6288 2016-02-01 14:24:20: Created Face Shader Program
+6288 2016-02-01 14:24:20: Created Face.vertsh
+6288 2016-02-01 14:24:20: Created Face.fragsh
+6288 2016-02-01 14:24:20: Created Colored Edge Shader Program
+6288 2016-02-01 14:24:20: Created ColoredEdge.vertsh
+6288 2016-02-01 14:24:20: Created Text Shader Program
+6288 2016-02-01 14:24:20: Created Text.vertsh
+6288 2016-02-01 14:24:20: Created Text.fragsh
+6288 2016-02-01 14:24:20: Created Text Background Shader Program
+6288 2016-02-01 14:24:20: Created TextBackground.vertsh
+6288 2016-02-01 14:24:20: Created TextBackground.fragsh
+6288 2016-02-01 14:24:20: Created Compass Shader Program
+6288 2016-02-01 14:24:20: Created Compass.vertsh
+6288 2016-02-01 14:24:20: Created Compass.fragsh
+6288 2016-02-01 14:24:20: Created Browser Group Shader Program
+6288 2016-02-01 14:24:20: Created BrowserGroup.vertsh
+6288 2016-02-01 14:24:20: Created BrowserGroup.fragsh
+6288 2016-02-01 14:24:35: Unloading existing map file and textures...
+6288 2016-02-01 14:24:35: Loading file C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\test1.map
+6288 2016-02-01 14:24:35: Assuming floating point plane coordinates
+6288 2016-02-01 14:24:35: Loaded map file in 0.008000 seconds
+6288 2016-02-01 14:24:42: Created Texture Browser Shader Program
+6288 2016-02-01 14:24:42: Created TextureBrowser.vertsh
+6288 2016-02-01 14:24:42: Created TextureBrowser.fragsh
+6288 2016-02-01 14:24:56: Created Texture Browser Border Shader Program
+6288 2016-02-01 14:24:56: Created TextureBrowserBorder.vertsh
+6288 2016-02-01 14:24:56: Created TextureBrowserBorder.fragsh
+6288 2016-02-01 14:24:59: Saved map file to C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\test1.map in 0.018000 seconds
+6288 2016-02-01 14:25:02: Created Compass Outline Shader Program
+6288 2016-02-01 14:25:02: Created CompassOutline.vertsh
+6288 2016-02-01 14:26:06: Saved map file to C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\test1.map in 0.007000 seconds
+6288 2016-02-01 14:26:43: Autosave directory created at C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\autosave
+6288 2016-02-01 14:26:43: Autosaved to C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\autosave\test1 1.map in 0.001000 seconds
+4152 2016-02-01 14:29:08: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+4152 2016-02-01 14:29:08: Depth buffer bits: 32
+4152 2016-02-01 14:29:08: Multisampling disabled
+4152 2016-02-01 14:29:08: OpenGL instancing enabled
+4152 2016-02-01 14:29:08: Created Edge Shader Program
+4152 2016-02-01 14:29:08: Created Edge.vertsh
+4152 2016-02-01 14:29:08: Created Edge.fragsh
+4152 2016-02-01 14:29:08: Created Entity Model Shader Program
+4152 2016-02-01 14:29:08: Created EntityModel.vertsh
+4152 2016-02-01 14:29:08: Created EntityModel.fragsh
+4152 2016-02-01 14:29:08: Loading 'progs/player.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/armor.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/suit.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/invisibl.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/invulner.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/quaddama.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'maps/b_batt0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'maps/b_bh25.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/w_s_key.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/w_g_key.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'maps/b_rock0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'maps/b_shell0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/end1.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'maps/b_nail0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/flame2.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/flame.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'maps/b_explob.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'maps/b_exbox2.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/teleport.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/soldier.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:08: Loading 'progs/boss.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/demon.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/dog.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/enforcer.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/fish.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/hknight.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/knight.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/ogre.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/oldone.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/shalrath.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/shambler.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/tarbaby.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/wizard.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/zombie.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/g_rock.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/g_light.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/g_nail.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/g_rock2.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/g_nail2.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Loading 'progs/g_shot.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+4152 2016-02-01 14:29:09: Created Face Shader Program
+4152 2016-02-01 14:29:09: Created Face.vertsh
+4152 2016-02-01 14:29:09: Created Face.fragsh
+4152 2016-02-01 14:29:09: Created Colored Edge Shader Program
+4152 2016-02-01 14:29:09: Created ColoredEdge.vertsh
+4152 2016-02-01 14:29:09: Created Text Shader Program
+4152 2016-02-01 14:29:09: Created Text.vertsh
+4152 2016-02-01 14:29:09: Created Text.fragsh
+4152 2016-02-01 14:29:09: Created Text Background Shader Program
+4152 2016-02-01 14:29:09: Created TextBackground.vertsh
+4152 2016-02-01 14:29:09: Created TextBackground.fragsh
+4152 2016-02-01 14:29:09: Created Compass Shader Program
+4152 2016-02-01 14:29:09: Created Compass.vertsh
+4152 2016-02-01 14:29:09: Created Compass.fragsh
+4152 2016-02-01 14:29:09: Created Browser Group Shader Program
+4152 2016-02-01 14:29:09: Created BrowserGroup.vertsh
+4152 2016-02-01 14:29:09: Created BrowserGroup.fragsh
+4152 2016-02-01 14:29:12: Unloading existing map file and textures...
+4152 2016-02-01 14:29:12: Loading file C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\test1.map
+4152 2016-02-01 14:29:12: Assuming floating point plane coordinates
+4152 2016-02-01 14:29:12: Loaded map file in 0.007000 seconds
+4152 2016-02-01 15:00:21: Autosaved to C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\autosave\test1 2.map in 0.004000 seconds
+6616 2016-02-02 18:24:59: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+6616 2016-02-02 18:24:59: Depth buffer bits: 32
+6616 2016-02-02 18:24:59: Multisampling disabled
+6616 2016-02-02 18:24:59: OpenGL instancing enabled
+6616 2016-02-02 18:25:00: Created Edge Shader Program
+6616 2016-02-02 18:25:00: Created Edge.vertsh
+6616 2016-02-02 18:25:00: Created Edge.fragsh
+6616 2016-02-02 18:25:00: Created Entity Model Shader Program
+6616 2016-02-02 18:25:00: Created EntityModel.vertsh
+6616 2016-02-02 18:25:00: Created EntityModel.fragsh
+6616 2016-02-02 18:25:00: Loading 'progs/player.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/armor.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/suit.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/invisibl.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/invulner.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/quaddama.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'maps/b_batt0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'maps/b_bh25.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/w_s_key.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/w_g_key.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'maps/b_rock0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'maps/b_shell0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/end1.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'maps/b_nail0.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/flame2.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/flame.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'maps/b_explob.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'maps/b_exbox2.bsp' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/teleport.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/soldier.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/boss.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/demon.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/dog.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/enforcer.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/fish.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/hknight.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/knight.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/ogre.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/oldone.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/shalrath.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/shambler.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/tarbaby.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/wizard.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/zombie.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/g_rock.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/g_light.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/g_nail.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/g_rock2.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/g_nail2.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Loading 'progs/g_shot.mdl' (searching C:\Users\Kelly\0 krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:25:00: Created Face Shader Program
+6616 2016-02-02 18:25:00: Created Face.vertsh
+6616 2016-02-02 18:25:00: Created Face.fragsh
+6616 2016-02-02 18:25:00: Created Colored Edge Shader Program
+6616 2016-02-02 18:25:00: Created ColoredEdge.vertsh
+6616 2016-02-02 18:25:00: Created Text Shader Program
+6616 2016-02-02 18:25:00: Created Text.vertsh
+6616 2016-02-02 18:25:00: Created Text.fragsh
+6616 2016-02-02 18:25:00: Created Text Background Shader Program
+6616 2016-02-02 18:25:00: Created TextBackground.vertsh
+6616 2016-02-02 18:25:00: Created TextBackground.fragsh
+6616 2016-02-02 18:25:00: Created Compass Shader Program
+6616 2016-02-02 18:25:00: Created Compass.vertsh
+6616 2016-02-02 18:25:00: Created Compass.fragsh
+6616 2016-02-02 18:25:00: Created Browser Group Shader Program
+6616 2016-02-02 18:25:01: Created BrowserGroup.vertsh
+6616 2016-02-02 18:25:01: Created BrowserGroup.fragsh
+6616 2016-02-02 18:25:10: Created Handle Shader Program
+6616 2016-02-02 18:25:10: Created Handle.vertsh
+6616 2016-02-02 18:25:10: Created Handle.fragsh
+6616 2016-02-02 18:26:01: Created Compass Outline Shader Program
+6616 2016-02-02 18:26:01: Created CompassOutline.vertsh
+6616 2016-02-02 18:26:06: Created Texture Browser Shader Program
+6616 2016-02-02 18:26:06: Created TextureBrowser.vertsh
+6616 2016-02-02 18:26:06: Created TextureBrowser.fragsh
+6616 2016-02-02 18:27:09: Loading 'progs/player.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/armor.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/suit.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/invisibl.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/invulner.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/quaddama.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'maps/b_batt0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'maps/b_bh25.bsp' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/w_s_key.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/w_g_key.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'maps/b_rock0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'maps/b_shell0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/end1.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'maps/b_nail0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/flame2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/flame.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'maps/b_explob.bsp' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'maps/b_exbox2.bsp' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/teleport.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/soldier.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/boss.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/demon.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/dog.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/enforcer.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/fish.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/hknight.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/knight.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/ogre.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/oldone.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/shalrath.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/shambler.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/tarbaby.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/wizard.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/zombie.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/g_rock.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/g_light.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/g_nail.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/g_rock2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/g_nail2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:10: Loading 'progs/g_shot.mdl' (searching D:\krm\Quake\Quake1\ID1)
+6616 2016-02-02 18:27:34: Created Texture Browser Border Shader Program
+6616 2016-02-02 18:27:34: Created TextureBrowserBorder.vertsh
+6616 2016-02-02 18:27:34: Created TextureBrowserBorder.fragsh
+6616 2016-02-02 18:27:50: Saved map file to C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\stars.map in 0.002000 seconds
+6616 2016-02-02 18:29:50: Pasted 0 entities and 1 brush
+6616 2016-02-02 18:31:08: Pasted 0 entities and 1 brush
+6616 2016-02-02 18:34:59: Autosaved to C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\autosave\stars 1.map in 0.016000 seconds
+6616 2016-02-02 18:35:18: Pasted 0 entities and 1 brush
+6616 2016-02-02 18:36:26: Saved map file to C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\stars.map in 0.017000 seconds
+6616 2016-02-02 18:36:28: Autosaved to C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\autosave\stars 2.map in 0.001000 seconds
+4460 2016-02-02 18:36:30: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+4460 2016-02-02 18:36:30: Depth buffer bits: 32
+4460 2016-02-02 18:36:30: Multisampling disabled
+4460 2016-02-02 18:36:30: OpenGL instancing enabled
+4460 2016-02-02 18:36:30: Created Edge Shader Program
+4460 2016-02-02 18:36:30: Created Edge.vertsh
+4460 2016-02-02 18:36:30: Created Edge.fragsh
+4460 2016-02-02 18:36:30: Created Entity Model Shader Program
+4460 2016-02-02 18:36:30: Created EntityModel.vertsh
+4460 2016-02-02 18:36:30: Created EntityModel.fragsh
+4460 2016-02-02 18:36:30: Loading 'progs/player.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/armor.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/suit.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/invisibl.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/invulner.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/quaddama.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'maps/b_batt0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'maps/b_bh25.bsp' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/w_s_key.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/w_g_key.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'maps/b_rock0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'maps/b_shell0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/end1.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'maps/b_nail0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/flame2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/flame.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'maps/b_explob.bsp' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'maps/b_exbox2.bsp' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/teleport.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/soldier.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/boss.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/demon.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/dog.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/enforcer.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/fish.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/hknight.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/knight.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/ogre.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/oldone.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/shalrath.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/shambler.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/tarbaby.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/wizard.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/zombie.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/g_rock.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/g_light.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/g_nail.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/g_rock2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/g_nail2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Loading 'progs/g_shot.mdl' (searching D:\krm\Quake\Quake1\ID1)
+4460 2016-02-02 18:36:30: Created Face Shader Program
+4460 2016-02-02 18:36:30: Created Face.vertsh
+4460 2016-02-02 18:36:30: Created Face.fragsh
+4460 2016-02-02 18:36:30: Created Colored Edge Shader Program
+4460 2016-02-02 18:36:30: Created ColoredEdge.vertsh
+4460 2016-02-02 18:36:30: Created Text Shader Program
+4460 2016-02-02 18:36:30: Created Text.vertsh
+4460 2016-02-02 18:36:30: Created Text.fragsh
+4460 2016-02-02 18:36:30: Created Text Background Shader Program
+4460 2016-02-02 18:36:30: Created TextBackground.vertsh
+4460 2016-02-02 18:36:30: Created TextBackground.fragsh
+4460 2016-02-02 18:36:30: Created Compass Shader Program
+4460 2016-02-02 18:36:30: Created Compass.vertsh
+4460 2016-02-02 18:36:31: Created Compass.fragsh
+4460 2016-02-02 18:36:31: Created Browser Group Shader Program
+4460 2016-02-02 18:36:31: Created BrowserGroup.vertsh
+4460 2016-02-02 18:36:31: Created BrowserGroup.fragsh
+4460 2016-02-02 18:36:39: Unloading existing map file and textures...
+4460 2016-02-02 18:36:39: Loading file C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\stars.map
+4460 2016-02-02 18:36:39: Assuming floating point plane coordinates
+4460 2016-02-02 18:36:39: Loaded map file in 0.005000 seconds
+4460 2016-02-02 18:36:51: Autosaved to C:\Users\Kelly\0 krm\Quake\Quake1\ctf\maps\autosave\stars 3.map in 0.042000 seconds
+7224 2016-02-02 18:38:52: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+7224 2016-02-02 18:38:52: Depth buffer bits: 32
+7224 2016-02-02 18:38:52: Multisampling disabled
+7224 2016-02-02 18:38:52: OpenGL instancing enabled
+7224 2016-02-02 18:38:52: Created Edge Shader Program
+7224 2016-02-02 18:38:52: Created Edge.vertsh
+7224 2016-02-02 18:38:52: Created Edge.fragsh
+7224 2016-02-02 18:38:52: Created Entity Model Shader Program
+7224 2016-02-02 18:38:52: Created EntityModel.vertsh
+7224 2016-02-02 18:38:52: Created EntityModel.fragsh
+7224 2016-02-02 18:38:52: Loading 'progs/player.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/armor.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/suit.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/invisibl.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/invulner.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/quaddama.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'maps/b_batt0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'maps/b_bh25.bsp' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/w_s_key.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/w_g_key.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'maps/b_rock0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'maps/b_shell0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/end1.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'maps/b_nail0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/flame2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/flame.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'maps/b_explob.bsp' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'maps/b_exbox2.bsp' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/teleport.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/soldier.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/boss.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/demon.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/dog.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/enforcer.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/fish.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/hknight.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/knight.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/ogre.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/oldone.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/shalrath.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/shambler.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/tarbaby.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/wizard.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/zombie.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/g_rock.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/g_light.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/g_nail.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/g_rock2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/g_nail2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Loading 'progs/g_shot.mdl' (searching D:\krm\Quake\Quake1\ID1)
+7224 2016-02-02 18:38:52: Created Face Shader Program
+7224 2016-02-02 18:38:52: Created Face.vertsh
+7224 2016-02-02 18:38:52: Created Face.fragsh
+7224 2016-02-02 18:38:52: Created Colored Edge Shader Program
+7224 2016-02-02 18:38:52: Created ColoredEdge.vertsh
+7224 2016-02-02 18:38:52: Created Text Shader Program
+7224 2016-02-02 18:38:52: Created Text.vertsh
+7224 2016-02-02 18:38:52: Created Text.fragsh
+7224 2016-02-02 18:38:52: Created Text Background Shader Program
+7224 2016-02-02 18:38:52: Created TextBackground.vertsh
+7224 2016-02-02 18:38:52: Created TextBackground.fragsh
+7224 2016-02-02 18:38:52: Created Compass Shader Program
+7224 2016-02-02 18:38:53: Created Compass.vertsh
+7224 2016-02-02 18:38:53: Created Compass.fragsh
+7224 2016-02-02 18:38:53: Created Browser Group Shader Program
+7224 2016-02-02 18:38:53: Created BrowserGroup.vertsh
+7224 2016-02-02 18:38:53: Created BrowserGroup.fragsh
+7224 2016-02-02 18:39:05: Unloading existing map file and textures...
+7224 2016-02-02 18:39:05: Loading file D:\krm\Quake\TrenchBroom\maps\stars.map
+7224 2016-02-02 18:39:05: Assuming floating point plane coordinates
+7224 2016-02-02 18:39:05: Loaded map file in 0.010000 seconds
+7224 2016-02-02 18:39:09: Created Compass Outline Shader Program
+7224 2016-02-02 18:39:09: Created CompassOutline.vertsh
+7224 2016-02-02 18:42:23: Saved map file to D:\krm\Quake\TrenchBroom\maps\stars.map in 0.014000 seconds
+7224 2016-02-02 18:42:31: Autosave directory created at D:\krm\Quake\TrenchBroom\maps\autosave
+7224 2016-02-02 18:42:31: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 1.map in 0.004000 seconds
+3656 2016-02-02 18:44:10: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+3656 2016-02-02 18:44:10: Depth buffer bits: 32
+3656 2016-02-02 18:44:10: Multisampling disabled
+3656 2016-02-02 18:44:10: OpenGL instancing enabled
+3656 2016-02-02 18:44:10: Created Edge Shader Program
+3656 2016-02-02 18:44:10: Created Edge.vertsh
+3656 2016-02-02 18:44:10: Created Edge.fragsh
+3656 2016-02-02 18:44:10: Created Entity Model Shader Program
+3656 2016-02-02 18:44:10: Created EntityModel.vertsh
+3656 2016-02-02 18:44:10: Created EntityModel.fragsh
+3656 2016-02-02 18:44:10: Loading 'progs/player.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/armor.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/suit.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/invisibl.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/invulner.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/quaddama.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'maps/b_batt0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'maps/b_bh25.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/w_s_key.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/w_g_key.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'maps/b_rock0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'maps/b_shell0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/end1.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'maps/b_nail0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/flame2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/flame.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'maps/b_explob.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'maps/b_exbox2.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/teleport.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/soldier.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/boss.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/demon.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/dog.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/enforcer.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/fish.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/hknight.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/knight.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/ogre.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/oldone.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/shalrath.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/shambler.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:10: Loading 'progs/tarbaby.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:11: Loading 'progs/wizard.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:11: Loading 'progs/zombie.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:11: Loading 'progs/g_rock.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:11: Loading 'progs/g_light.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:11: Loading 'progs/g_nail.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:11: Loading 'progs/g_rock2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:11: Loading 'progs/g_nail2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:11: Loading 'progs/g_shot.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3656 2016-02-02 18:44:11: Created Face Shader Program
+3656 2016-02-02 18:44:11: Created Face.vertsh
+3656 2016-02-02 18:44:11: Created Face.fragsh
+3656 2016-02-02 18:44:11: Created Colored Edge Shader Program
+3656 2016-02-02 18:44:11: Created ColoredEdge.vertsh
+3656 2016-02-02 18:44:11: Created Text Shader Program
+3656 2016-02-02 18:44:11: Created Text.vertsh
+3656 2016-02-02 18:44:11: Created Text.fragsh
+3656 2016-02-02 18:44:11: Created Text Background Shader Program
+3656 2016-02-02 18:44:11: Created TextBackground.vertsh
+3656 2016-02-02 18:44:11: Created TextBackground.fragsh
+3656 2016-02-02 18:44:11: Created Compass Shader Program
+3656 2016-02-02 18:44:11: Created Compass.vertsh
+3656 2016-02-02 18:44:11: Created Compass.fragsh
+3656 2016-02-02 18:44:11: Created Browser Group Shader Program
+3656 2016-02-02 18:44:11: Created BrowserGroup.vertsh
+3656 2016-02-02 18:44:11: Created BrowserGroup.fragsh
+3656 2016-02-02 18:44:16: Unloading existing map file and textures...
+3656 2016-02-02 18:44:16: Loading file D:\krm\Quake\TrenchBroom\maps\stars.map
+3656 2016-02-02 18:44:16: Assuming floating point plane coordinates
+3656 2016-02-02 18:44:16: Loaded map file in 0.009000 seconds
+3656 2016-02-02 18:44:19: Created Texture Browser Border Shader Program
+3656 2016-02-02 18:44:19: Created TextureBrowserBorder.vertsh
+3656 2016-02-02 18:44:19: Created TextureBrowserBorder.fragsh
+3656 2016-02-02 18:44:19: Created Texture Browser Shader Program
+3656 2016-02-02 18:44:19: Created TextureBrowser.vertsh
+3656 2016-02-02 18:44:19: Created TextureBrowser.fragsh
+3656 2016-02-02 18:44:40: Created Compass Outline Shader Program
+3656 2016-02-02 18:44:40: Created CompassOutline.vertsh
+3656 2016-02-02 18:45:21: Created Handle Shader Program
+3656 2016-02-02 18:45:21: Created Handle.vertsh
+3656 2016-02-02 18:45:21: Created Handle.fragsh
+3656 2016-02-02 18:46:28: Saved map file to D:\krm\Quake\TrenchBroom\maps\stars.map in 0.025000 seconds
+3656 2016-02-02 18:54:10: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 2.map in 0.005000 seconds
+3656 2016-02-02 18:58:41: Saved map file to D:\krm\Quake\TrenchBroom\maps\stars.map in 0.004000 seconds
+3656 2016-02-02 19:04:10: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 3.map in 0.001000 seconds
+3656 2016-02-02 19:14:10: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 4.map in 0.003000 seconds
+3656 2016-02-02 19:24:10: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 5.map in 0.005000 seconds
+3656 2016-02-02 19:34:10: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 6.map in 0.003000 seconds
+3656 2016-02-02 19:37:35: Saved map file to D:\krm\Quake\TrenchBroom\maps\stars.map in 0.019000 seconds
+3656 2016-02-02 19:44:10: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 7.map in 0.034000 seconds
+3656 2016-02-02 19:50:08: Saved map file to D:\krm\Quake\TrenchBroom\maps\stars.map in 0.030000 seconds
+3656 2016-02-02 19:54:10: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 8.map in 0.007000 seconds
+3656 2016-02-02 20:03:56: Saved map file to D:\krm\Quake\TrenchBroom\maps\stars.map in 0.027000 seconds
+3656 2016-02-02 20:04:14: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 9.map in 0.030000 seconds
+3656 2016-02-02 20:06:41: Saved map file to D:\krm\Quake\TrenchBroom\maps\stars.map in 0.028000 seconds
+3656 2016-02-02 20:06:44: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 10.map in 0.006000 seconds
+5388 2016-02-02 20:06:55: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+5388 2016-02-02 20:06:55: Depth buffer bits: 32
+5388 2016-02-02 20:06:55: Multisampling disabled
+5388 2016-02-02 20:06:55: OpenGL instancing enabled
+5388 2016-02-02 20:06:55: Created Edge Shader Program
+5388 2016-02-02 20:06:55: Created Edge.vertsh
+5388 2016-02-02 20:06:55: Created Edge.fragsh
+5388 2016-02-02 20:06:56: Created Entity Model Shader Program
+5388 2016-02-02 20:06:56: Created EntityModel.vertsh
+5388 2016-02-02 20:06:56: Created EntityModel.fragsh
+5388 2016-02-02 20:06:56: Loading 'progs/player.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/armor.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/suit.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/invisibl.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/invulner.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/quaddama.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'maps/b_batt0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'maps/b_bh25.bsp' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/w_s_key.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/w_g_key.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'maps/b_rock0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'maps/b_shell0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/end1.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'maps/b_nail0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/flame2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/flame.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'maps/b_explob.bsp' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'maps/b_exbox2.bsp' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/teleport.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/soldier.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/boss.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/demon.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/dog.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/enforcer.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/fish.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/hknight.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/knight.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/ogre.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/oldone.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/shalrath.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/shambler.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/tarbaby.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/wizard.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/zombie.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/g_rock.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/g_light.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/g_nail.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/g_rock2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/g_nail2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Loading 'progs/g_shot.mdl' (searching D:\krm\Quake\Quake1\ID1)
+5388 2016-02-02 20:06:56: Created Face Shader Program
+5388 2016-02-02 20:06:56: Created Face.vertsh
+5388 2016-02-02 20:06:56: Created Face.fragsh
+5388 2016-02-02 20:06:56: Created Colored Edge Shader Program
+5388 2016-02-02 20:06:56: Created ColoredEdge.vertsh
+5388 2016-02-02 20:06:56: Created Text Shader Program
+5388 2016-02-02 20:06:56: Created Text.vertsh
+5388 2016-02-02 20:06:56: Created Text.fragsh
+5388 2016-02-02 20:06:56: Created Text Background Shader Program
+5388 2016-02-02 20:06:56: Created TextBackground.vertsh
+5388 2016-02-02 20:06:56: Created TextBackground.fragsh
+5388 2016-02-02 20:06:56: Created Compass Shader Program
+5388 2016-02-02 20:06:56: Created Compass.vertsh
+5388 2016-02-02 20:06:56: Created Compass.fragsh
+5388 2016-02-02 20:06:56: Created Browser Group Shader Program
+5388 2016-02-02 20:06:56: Created BrowserGroup.vertsh
+5388 2016-02-02 20:06:56: Created BrowserGroup.fragsh
+5388 2016-02-02 20:07:06: Unloading existing map file and textures...
+5388 2016-02-02 20:07:06: Loading file D:\krm\Quake\TrenchBroom\maps\stars.map
+5388 2016-02-02 20:07:06: Assuming floating point plane coordinates
+5388 2016-02-02 20:07:06: Loaded map file in 0.012000 seconds
+5388 2016-02-02 20:07:52: Created Handle Shader Program
+5388 2016-02-02 20:07:52: Created Handle.vertsh
+5388 2016-02-02 20:07:52: Created Handle.fragsh
+5388 2016-02-02 20:08:02: Created Compass Outline Shader Program
+5388 2016-02-02 20:08:02: Created CompassOutline.vertsh
+5388 2016-02-02 20:09:46: Saved map file to D:\krm\Quake\TrenchBroom\maps\stars.map in 0.032000 seconds
+5388 2016-02-02 20:11:51: Saved map file to D:\krm\Quake\TrenchBroom\maps\stars.map in 0.060000 seconds
+5388 2016-02-02 20:11:55: Created Entity Link Shader Program
+5388 2016-02-02 20:11:55: Created EntityLink.vertsh
+5388 2016-02-02 20:11:55: Created EntityLink.fragsh
+5388 2016-02-02 20:11:56: Saved map file to D:\krm\Quake\TrenchBroom\maps\stars.map in 0.026000 seconds
+5388 2016-02-02 20:16:55: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 11.map in 0.057000 seconds
+5388 2016-02-02 20:26:55: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 12.map in 0.008000 seconds
+5388 2016-02-02 20:30:25: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 13.map in 0.008000 seconds
+3436 2016-02-03 10:58:45: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+3436 2016-02-03 10:58:45: Depth buffer bits: 32
+3436 2016-02-03 10:58:45: Multisampling disabled
+3436 2016-02-03 10:58:45: OpenGL instancing enabled
+3436 2016-02-03 10:58:45: Created Edge Shader Program
+3436 2016-02-03 10:58:45: Created Edge.vertsh
+3436 2016-02-03 10:58:45: Created Edge.fragsh
+3436 2016-02-03 10:58:45: Created Entity Model Shader Program
+3436 2016-02-03 10:58:45: Created EntityModel.vertsh
+3436 2016-02-03 10:58:45: Created EntityModel.fragsh
+3436 2016-02-03 10:58:45: Loading 'progs/player.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/armor.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/suit.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/invisibl.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/invulner.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/quaddama.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'maps/b_batt0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'maps/b_bh25.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/w_s_key.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/w_g_key.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'maps/b_rock0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'maps/b_shell0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/end1.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'maps/b_nail0.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/flame2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/flame.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'maps/b_explob.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'maps/b_exbox2.bsp' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/teleport.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/soldier.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/boss.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/demon.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/dog.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/enforcer.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/fish.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:45: Loading 'progs/hknight.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/knight.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/ogre.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/oldone.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/shalrath.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/shambler.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/tarbaby.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/wizard.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/zombie.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/g_rock.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/g_light.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/g_nail.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/g_rock2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/g_nail2.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Loading 'progs/g_shot.mdl' (searching D:\krm\Quake\Quake1\ID1)
+3436 2016-02-03 10:58:46: Created Face Shader Program
+3436 2016-02-03 10:58:46: Created Face.vertsh
+3436 2016-02-03 10:58:46: Created Face.fragsh
+3436 2016-02-03 10:58:46: Created Colored Edge Shader Program
+3436 2016-02-03 10:58:46: Created ColoredEdge.vertsh
+3436 2016-02-03 10:58:46: Created Text Shader Program
+3436 2016-02-03 10:58:46: Created Text.vertsh
+3436 2016-02-03 10:58:46: Created Text.fragsh
+3436 2016-02-03 10:58:46: Created Text Background Shader Program
+3436 2016-02-03 10:58:46: Created TextBackground.vertsh
+3436 2016-02-03 10:58:46: Created TextBackground.fragsh
+3436 2016-02-03 10:58:46: Created Compass Shader Program
+3436 2016-02-03 10:58:46: Created Compass.vertsh
+3436 2016-02-03 10:58:46: Created Compass.fragsh
+3436 2016-02-03 10:58:46: Created Browser Group Shader Program
+3436 2016-02-03 10:58:46: Created BrowserGroup.vertsh
+3436 2016-02-03 10:58:46: Created BrowserGroup.fragsh
+3436 2016-02-03 10:59:02: Unloading existing map file and textures...
+3436 2016-02-03 10:59:02: Loading file D:\krm\Quake\TrenchBroom\maps\stars.map
+3436 2016-02-03 10:59:02: Assuming floating point plane coordinates
+3436 2016-02-03 10:59:02: Loaded map file in 0.006000 seconds
+3436 2016-02-03 10:59:27: Created Handle Shader Program
+3436 2016-02-03 10:59:27: Created Handle.vertsh
+3436 2016-02-03 10:59:27: Created Handle.fragsh
+3436 2016-02-03 11:00:27: Created Texture Browser Border Shader Program
+3436 2016-02-03 11:00:27: Created TextureBrowserBorder.vertsh
+3436 2016-02-03 11:00:27: Created TextureBrowserBorder.fragsh
+3436 2016-02-03 11:00:27: Created Texture Browser Shader Program
+3436 2016-02-03 11:00:27: Created TextureBrowser.vertsh
+3436 2016-02-03 11:00:27: Created TextureBrowser.fragsh
+3436 2016-02-03 11:00:59: Created Compass Outline Shader Program
+3436 2016-02-03 11:00:59: Created CompassOutline.vertsh
+3436 2016-02-03 11:04:24: Saved map file to D:\krm\Quake\TrenchBroom\maps\stars.map in 0.008000 seconds
+3436 2016-02-03 11:08:45: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 14.map in 0.046000 seconds
+3436 2016-02-03 11:11:05: Autosaved to D:\krm\Quake\TrenchBroom\maps\autosave\stars 15.map in 0.017000 seconds
+5884 2016-02-03 12:01:00: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+5884 2016-02-03 12:01:00: Depth buffer bits: 32
+5884 2016-02-03 12:01:00: Multisampling disabled
+5884 2016-02-03 12:01:00: OpenGL instancing enabled
+5884 2016-02-03 12:01:00: Created Edge Shader Program
+5884 2016-02-03 12:01:00: Created Edge.vertsh
+5884 2016-02-03 12:01:00: Created Edge.fragsh
+5884 2016-02-03 12:01:00: Created Entity Model Shader Program
+5884 2016-02-03 12:01:00: Created EntityModel.vertsh
+5884 2016-02-03 12:01:00: Created EntityModel.fragsh
+5884 2016-02-03 12:01:00: Loading 'progs/player.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/player.mdl'
+5884 2016-02-03 12:01:00: Loading 'progs/armor.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/armor.mdl'
+5884 2016-02-03 12:01:00: Loading 'progs/armor.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/armor.mdl'
+5884 2016-02-03 12:01:00: Loading 'progs/armor.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/armor.mdl'
+5884 2016-02-03 12:01:00: Loading 'progs/suit.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/suit.mdl'
+5884 2016-02-03 12:01:00: Loading 'progs/invisibl.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/invisibl.mdl'
+5884 2016-02-03 12:01:00: Loading 'progs/invulner.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/invulner.mdl'
+5884 2016-02-03 12:01:00: Loading 'progs/quaddama.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/quaddama.mdl'
+5884 2016-02-03 12:01:00: Loading 'maps/b_batt0.bsp' (searching )
+5884 2016-02-03 12:01:00: Unable to find BSP 'maps/b_batt0.bsp'
+5884 2016-02-03 12:01:00: Loading 'maps/b_bh25.bsp' (searching )
+5884 2016-02-03 12:01:00: Unable to find BSP 'maps/b_bh25.bsp'
+5884 2016-02-03 12:01:00: Loading 'progs/w_s_key.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/w_s_key.mdl'
+5884 2016-02-03 12:01:00: Loading 'progs/w_g_key.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/w_g_key.mdl'
+5884 2016-02-03 12:01:00: Loading 'maps/b_rock0.bsp' (searching )
+5884 2016-02-03 12:01:00: Unable to find BSP 'maps/b_rock0.bsp'
+5884 2016-02-03 12:01:00: Loading 'maps/b_shell0.bsp' (searching )
+5884 2016-02-03 12:01:00: Unable to find BSP 'maps/b_shell0.bsp'
+5884 2016-02-03 12:01:00: Loading 'progs/end1.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/end1.mdl'
+5884 2016-02-03 12:01:00: Loading 'maps/b_nail0.bsp' (searching )
+5884 2016-02-03 12:01:00: Unable to find BSP 'maps/b_nail0.bsp'
+5884 2016-02-03 12:01:00: Loading 'progs/flame2.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/flame2.mdl'
+5884 2016-02-03 12:01:00: Loading 'progs/flame.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/flame.mdl'
+5884 2016-02-03 12:01:00: Loading 'maps/b_explob.bsp' (searching )
+5884 2016-02-03 12:01:00: Unable to find BSP 'maps/b_explob.bsp'
+5884 2016-02-03 12:01:00: Loading 'maps/b_exbox2.bsp' (searching )
+5884 2016-02-03 12:01:00: Unable to find BSP 'maps/b_exbox2.bsp'
+5884 2016-02-03 12:01:00: Loading 'progs/teleport.mdl' (searching )
+5884 2016-02-03 12:01:00: Unable to find MDL 'progs/teleport.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/soldier.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/soldier.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/boss.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/boss.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/demon.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/demon.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/dog.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/dog.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/enforcer.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/enforcer.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/fish.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/fish.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/hknight.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/hknight.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/knight.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/knight.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/ogre.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/ogre.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/oldone.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/oldone.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/shalrath.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/shalrath.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/shambler.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/shambler.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/tarbaby.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/tarbaby.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/wizard.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/wizard.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/zombie.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/zombie.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/g_rock.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/g_rock.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/g_light.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/g_light.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/g_nail.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/g_nail.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/g_rock2.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/g_rock2.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/g_nail2.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/g_nail2.mdl'
+5884 2016-02-03 12:01:01: Loading 'progs/g_shot.mdl' (searching )
+5884 2016-02-03 12:01:01: Unable to find MDL 'progs/g_shot.mdl'
+5884 2016-02-03 12:01:01: Created Face Shader Program
+5884 2016-02-03 12:01:02: Created Face.vertsh
+5884 2016-02-03 12:01:02: Created Face.fragsh
+5884 2016-02-03 12:01:02: Created Colored Edge Shader Program
+5884 2016-02-03 12:01:02: Created ColoredEdge.vertsh
+5884 2016-02-03 12:01:02: Created Text Shader Program
+5884 2016-02-03 12:01:02: Created Text.vertsh
+5884 2016-02-03 12:01:02: Created Text.fragsh
+5884 2016-02-03 12:01:02: Created Text Background Shader Program
+5884 2016-02-03 12:01:02: Created TextBackground.vertsh
+5884 2016-02-03 12:01:02: Created TextBackground.fragsh
+5884 2016-02-03 12:01:02: Created Compass Shader Program
+5884 2016-02-03 12:01:02: Created Compass.vertsh
+5884 2016-02-03 12:01:02: Created Compass.fragsh
+5884 2016-02-03 12:01:02: Created Browser Group Shader Program
+5884 2016-02-03 12:01:02: Created BrowserGroup.vertsh
+5884 2016-02-03 12:01:02: Created BrowserGroup.fragsh
+5884 2016-02-03 12:01:27: Loading 'progs/player.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/armor.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/suit.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/invisibl.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/invulner.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/quaddama.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'maps/b_batt0.bsp' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'maps/b_bh25.bsp' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/w_s_key.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/w_g_key.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'maps/b_rock0.bsp' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'maps/b_shell0.bsp' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/end1.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'maps/b_nail0.bsp' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/flame2.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/flame.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'maps/b_explob.bsp' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'maps/b_exbox2.bsp' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/teleport.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/soldier.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/boss.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/demon.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/dog.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/enforcer.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/fish.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/hknight.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/knight.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/ogre.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/oldone.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/shalrath.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/shambler.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/tarbaby.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/wizard.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/zombie.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/g_rock.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/g_light.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/g_nail.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/g_rock2.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/g_nail2.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:01:27: Loading 'progs/g_shot.mdl' (searching C:\Q1\Quake1\ID1)
+5884 2016-02-03 12:03:49: Created Handle Shader Program
+5884 2016-02-03 12:03:49: Created Handle.vertsh
+5884 2016-02-03 12:03:49: Created Handle.fragsh
+5884 2016-02-03 12:03:54: Created Texture Browser Border Shader Program
+5884 2016-02-03 12:03:54: Created TextureBrowserBorder.vertsh
+5884 2016-02-03 12:03:54: Created TextureBrowserBorder.fragsh
+5884 2016-02-03 12:03:54: Created Texture Browser Shader Program
+5884 2016-02-03 12:03:54: Created TextureBrowser.vertsh
+5884 2016-02-03 12:03:54: Created TextureBrowser.fragsh
+5884 2016-02-03 12:04:36: Created Compass Outline Shader Program
+5884 2016-02-03 12:04:36: Created CompassOutline.vertsh
+5884 2016-02-03 12:06:27: Created Point Handle Shader Program
+5884 2016-02-03 12:06:27: Created PointHandle.vertsh
+5884 2016-02-03 12:09:49: Saved map file to C:\Q1\Quake1\ctf\maps\MEH.map in 0.004000 seconds
+5884 2016-02-03 12:09:50: Autosave directory created at C:\Q1\Quake1\ctf\maps\autosave
+5884 2016-02-03 12:09:50: Autosaved to C:\Q1\Quake1\ctf\maps\autosave\MEH 1.map in 0.001000 seconds
+4516 2016-02-03 12:09:51: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+4516 2016-02-03 12:09:51: Depth buffer bits: 32
+4516 2016-02-03 12:09:51: Multisampling disabled
+4516 2016-02-03 12:09:51: OpenGL instancing enabled
+4516 2016-02-03 12:09:52: Created Edge Shader Program
+4516 2016-02-03 12:09:52: Created Edge.vertsh
+4516 2016-02-03 12:09:52: Created Edge.fragsh
+4516 2016-02-03 12:09:52: Created Entity Model Shader Program
+4516 2016-02-03 12:09:52: Created EntityModel.vertsh
+4516 2016-02-03 12:09:52: Created EntityModel.fragsh
+4516 2016-02-03 12:09:52: Loading 'progs/player.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/armor.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/suit.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/invisibl.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/invulner.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/quaddama.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'maps/b_batt0.bsp' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'maps/b_bh25.bsp' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/w_s_key.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/w_g_key.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'maps/b_rock0.bsp' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'maps/b_shell0.bsp' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/end1.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'maps/b_nail0.bsp' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/flame2.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/flame.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'maps/b_explob.bsp' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'maps/b_exbox2.bsp' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/teleport.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/soldier.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/boss.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/demon.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/dog.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/enforcer.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/fish.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/hknight.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/knight.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/ogre.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/oldone.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/shalrath.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/shambler.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/tarbaby.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/wizard.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/zombie.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/g_rock.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/g_light.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/g_nail.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/g_rock2.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/g_nail2.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Loading 'progs/g_shot.mdl' (searching C:\Q1\Quake1\ID1)
+4516 2016-02-03 12:09:52: Created Face Shader Program
+4516 2016-02-03 12:09:52: Created Face.vertsh
+4516 2016-02-03 12:09:52: Created Face.fragsh
+4516 2016-02-03 12:09:52: Created Colored Edge Shader Program
+4516 2016-02-03 12:09:52: Created ColoredEdge.vertsh
+4516 2016-02-03 12:09:52: Created Text Shader Program
+4516 2016-02-03 12:09:52: Created Text.vertsh
+4516 2016-02-03 12:09:52: Created Text.fragsh
+4516 2016-02-03 12:09:52: Created Text Background Shader Program
+4516 2016-02-03 12:09:52: Created TextBackground.vertsh
+4516 2016-02-03 12:09:52: Created TextBackground.fragsh
+4516 2016-02-03 12:09:52: Created Compass Shader Program
+4516 2016-02-03 12:09:53: Created Compass.vertsh
+4516 2016-02-03 12:09:53: Created Compass.fragsh
+4516 2016-02-03 12:09:53: Created Browser Group Shader Program
+4516 2016-02-03 12:09:53: Created BrowserGroup.vertsh
+4516 2016-02-03 12:09:53: Created BrowserGroup.fragsh
+4516 2016-02-03 12:10:00: Unloading existing map file and textures...
+4516 2016-02-03 12:10:00: Loading file C:\Q1\Quake1\ctf\maps\MEH.map
+4516 2016-02-03 12:10:00: Assuming floating point plane coordinates
+4516 2016-02-03 12:10:00: Loaded map file in 0.007000 seconds
+4516 2016-02-03 12:10:08: Created Compass Outline Shader Program
+4516 2016-02-03 12:10:08: Created CompassOutline.vertsh
+4516 2016-02-03 12:10:12: Created Texture Browser Border Shader Program
+4516 2016-02-03 12:10:12: Created TextureBrowserBorder.vertsh
+4516 2016-02-03 12:10:12: Created TextureBrowserBorder.fragsh
+4516 2016-02-03 12:10:12: Created Texture Browser Shader Program
+4516 2016-02-03 12:10:12: Created TextureBrowser.vertsh
+4516 2016-02-03 12:10:12: Created TextureBrowser.fragsh
+4516 2016-02-03 12:11:44: Saved map file to C:\Q1\Quake1\ctf\maps\MEH.map in 0.016000 seconds
+4516 2016-02-03 12:11:52: Autosaved to C:\Q1\Quake1\ctf\maps\autosave\MEH 2.map in 0.001000 seconds
+6928 2016-02-04 10:49:21: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+6928 2016-02-04 10:49:21: Depth buffer bits: 32
+6928 2016-02-04 10:49:21: Multisampling disabled
+6928 2016-02-04 10:49:21: OpenGL instancing enabled
+6928 2016-02-04 10:49:22: Created Edge Shader Program
+6928 2016-02-04 10:49:22: Created Edge.vertsh
+6928 2016-02-04 10:49:22: Created Edge.fragsh
+6928 2016-02-04 10:49:22: Created Entity Model Shader Program
+6928 2016-02-04 10:49:22: Created EntityModel.vertsh
+6928 2016-02-04 10:49:22: Created EntityModel.fragsh
+6928 2016-02-04 10:49:22: Loading 'progs/player.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/armor.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/suit.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/invisibl.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/invulner.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/quaddama.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'maps/b_batt0.bsp' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'maps/b_bh25.bsp' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/w_s_key.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/w_g_key.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'maps/b_rock0.bsp' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'maps/b_shell0.bsp' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/end1.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'maps/b_nail0.bsp' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/flame2.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/flame.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'maps/b_explob.bsp' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'maps/b_exbox2.bsp' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/teleport.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/soldier.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/boss.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/demon.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/dog.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/enforcer.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/fish.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/hknight.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/knight.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/ogre.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/oldone.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/shalrath.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/shambler.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/tarbaby.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/wizard.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/zombie.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/g_rock.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/g_light.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:22: Loading 'progs/g_nail.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:23: Loading 'progs/g_rock2.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:23: Loading 'progs/g_nail2.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:23: Loading 'progs/g_shot.mdl' (searching C:\Q1\Quake1\ID1)
+6928 2016-02-04 10:49:23: Created Face Shader Program
+6928 2016-02-04 10:49:23: Created Face.vertsh
+6928 2016-02-04 10:49:23: Created Face.fragsh
+6928 2016-02-04 10:49:23: Created Colored Edge Shader Program
+6928 2016-02-04 10:49:23: Created ColoredEdge.vertsh
+6928 2016-02-04 10:49:23: Created Text Shader Program
+6928 2016-02-04 10:49:23: Created Text.vertsh
+6928 2016-02-04 10:49:23: Created Text.fragsh
+6928 2016-02-04 10:49:23: Created Text Background Shader Program
+6928 2016-02-04 10:49:23: Created TextBackground.vertsh
+6928 2016-02-04 10:49:23: Created TextBackground.fragsh
+6928 2016-02-04 10:49:23: Created Compass Shader Program
+6928 2016-02-04 10:49:23: Created Compass.vertsh
+6928 2016-02-04 10:49:23: Created Compass.fragsh
+6928 2016-02-04 10:49:23: Created Browser Group Shader Program
+6928 2016-02-04 10:49:23: Created BrowserGroup.vertsh
+6928 2016-02-04 10:49:23: Created BrowserGroup.fragsh
+6928 2016-02-04 10:49:59: Unloading existing map file and textures...
+6928 2016-02-04 10:49:59: Loading file C:\Q1\Quake1\ctf\maps\autosave\MEH 2.map
+6928 2016-02-04 10:49:59: Assuming floating point plane coordinates
+6928 2016-02-04 10:49:59: Loaded map file in 0.005000 seconds
+6928 2016-02-04 10:50:04: Created Compass Outline Shader Program
+6928 2016-02-04 10:50:04: Created CompassOutline.vertsh
+6928 2016-02-04 10:50:50: Created Handle Shader Program
+6928 2016-02-04 10:50:51: Created Handle.vertsh
+6928 2016-02-04 10:50:51: Created Handle.fragsh
+6928 2016-02-04 10:51:39: Saved map file to C:\Q1\Quake1\ctf\maps\autosave\MEH 2.map in 0.018000 seconds
+6928 2016-02-04 10:51:47: Autosave directory created at C:\Q1\Quake1\ctf\maps\autosave\autosave
+6928 2016-02-04 10:51:47: Autosaved to C:\Q1\Quake1\ctf\maps\autosave\autosave\MEH 2 1.map in 0.005000 seconds
+5892 2016-02-04 10:52:39: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 10.18.15.4279 from Intel
+5892 2016-02-04 10:52:39: Depth buffer bits: 32
+5892 2016-02-04 10:52:39: Multisampling disabled
+5892 2016-02-04 10:52:39: OpenGL instancing enabled
+5892 2016-02-04 10:52:39: Created Edge Shader Program
+5892 2016-02-04 10:52:39: Created Edge.vertsh
+5892 2016-02-04 10:52:39: Created Edge.fragsh
+5892 2016-02-04 10:52:39: Created Entity Model Shader Program
+5892 2016-02-04 10:52:39: Created EntityModel.vertsh
+5892 2016-02-04 10:52:39: Created EntityModel.fragsh
+5892 2016-02-04 10:52:40: Loading 'progs/player.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/armor.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/suit.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/invisibl.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/invulner.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/quaddama.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'maps/b_batt0.bsp' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'maps/b_bh25.bsp' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/w_s_key.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/w_g_key.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'maps/b_rock0.bsp' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'maps/b_shell0.bsp' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/end1.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'maps/b_nail0.bsp' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/flame2.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/flame.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'maps/b_explob.bsp' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'maps/b_exbox2.bsp' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/teleport.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/soldier.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/boss.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/demon.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/dog.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/enforcer.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/fish.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/hknight.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/knight.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/ogre.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/oldone.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/shalrath.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/shambler.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/tarbaby.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/wizard.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/zombie.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/g_rock.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/g_light.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/g_nail.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/g_rock2.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/g_nail2.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Loading 'progs/g_shot.mdl' (searching C:\Q1\Quake1\ID1)
+5892 2016-02-04 10:52:40: Created Face Shader Program
+5892 2016-02-04 10:52:40: Created Face.vertsh
+5892 2016-02-04 10:52:40: Created Face.fragsh
+5892 2016-02-04 10:52:40: Created Colored Edge Shader Program
+5892 2016-02-04 10:52:40: Created ColoredEdge.vertsh
+5892 2016-02-04 10:52:40: Created Text Shader Program
+5892 2016-02-04 10:52:40: Created Text.vertsh
+5892 2016-02-04 10:52:40: Created Text.fragsh
+5892 2016-02-04 10:52:40: Created Text Background Shader Program
+5892 2016-02-04 10:52:40: Created TextBackground.vertsh
+5892 2016-02-04 10:52:40: Created TextBackground.fragsh
+5892 2016-02-04 10:52:40: Created Compass Shader Program
+5892 2016-02-04 10:52:40: Created Compass.vertsh
+5892 2016-02-04 10:52:40: Created Compass.fragsh
+5892 2016-02-04 10:52:40: Created Browser Group Shader Program
+5892 2016-02-04 10:52:40: Created BrowserGroup.vertsh
+5892 2016-02-04 10:52:40: Created BrowserGroup.fragsh
+5892 2016-02-04 10:52:48: Autosave directory created at autosave
+5892 2016-02-04 10:52:48: Autosaved to autosave\unnamed1 1.map in 0.009000 seconds

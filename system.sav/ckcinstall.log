@@ -1,0 +1,33 @@
+15:07:19 ----------[ Begin Install ]--------------
+15:07:19 Register COM object c:\cpqs\scom\CpqCva.dll
+15:07:20 Register COM object c:\cpqs\scom\CpqStartMenu.dll
+15:07:23 Register COM object c:\cpqs\scom\CustomerRegInfo.dll
+15:07:23 Register COM object c:\cpqs\scom\EDID.dll
+15:07:24 Register COM object c:\cpqs\scom\Mailer.dll
+15:07:24 Register COM object c:\cpqs\scom\MemUsage.dll
+15:07:24 Register COM object c:\cpqs\scom\Migrate.dll
+15:07:24 Register COM object c:\cpqs\scom\ModemCheck.dll
+15:07:24 Register COM object c:\cpqs\scom\ModemQuery.dll
+15:07:24 Register COM object c:\cpqs\scom\ModemUtil.dll
+15:07:24 Register COM object c:\cpqs\scom\PCTSCOM.dll
+15:07:24 Register COM object c:\cpqs\scom\ScDmi.dll
+15:07:24 Register COM object c:\cpqs\scom\SCDrivers.dll
+15:07:25 Register COM object c:\cpqs\scom\Scom.dll
+15:07:25 Register COM object c:\cpqs\scom\SCOS.dll
+15:07:25 Register COM object c:\cpqs\scom\SCPartNumber.dll
+15:07:25 Registered file chs_options.reg
+15:07:25 Registered file Headlines.reg
+15:07:25 Registered file MVTShoot.reg
+15:07:25 Registered file pctscom.reg
+15:07:25 Registered file srm.reg
+15:07:25 Installed Custom File "c:\ckctemp\custom\help.ico" to "C:\cpqs\scom\Help.ico"
+15:07:25 Installed Custom File "c:\ckctemp\custom\srmclean.exe" to "C:\Cpqs\Scom\srmclean.exe"
+15:07:25 Installed Custom File "c:\ckctemp\custom\uiadll.dll" to "C:\Cpqs\quicksr\uiadll.dll"
+15:07:25 AddTrustedPublisher trusted Microsoft.
+15:07:25 AddTrustedPublisher trusted Compaq
+15:07:25 AddTrustedPublisher trusted Compaq
+15:07:26 Import Cab file compaqregw.cab
+15:07:44 Import Cab file dTax_Both.cab
+15:08:01 Import Cab file support.cab
+15:08:04 Import Cab file TotalPackage.cab
+15:08:20 ----------[ End   Install ]--------------

@@ -1,0 +1,75 @@
+---- qbsp / TyrUtils v0.15 ----
+Input file: maps/stars.map
+Output file: maps/stars.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+          228 faces
+           38 brushes
+           40 entities
+            6 unique texnames
+           52 texinfo
+
+Opened WAD: D:\krm\Quake\Quake1\quake.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+           36 brushes
+---- CSGFaces ----
+          216 brushfaces
+          192 csgfaces
+          184 mergedfaces
+---- SolidBSP ----
+          442 split nodes
+          138 solid leafs
+          284 empty leafs
+           21 water leafs
+          836 leaffaces
+          822 nodefaces
+---- Portalize ----
+          305 vis leafs
+          305 vis clusters
+          868 vis portals
+---- FillOutside ----
+          192 outleafs
+---- MergeAll ----
+          169 mergefaces
+---- SolidBSP ----
+          126 split nodes
+           43 solid leafs
+           81 empty leafs
+            3 water leafs
+          466 leaffaces
+          315 nodefaces
+---- Portalize ----
+           84 vis leafs
+           84 vis clusters
+          329 vis portals
+---- Tjunc ----
+          342 world edges
+         1064 edge points
+          256 edges added by tjunctions
+            0 faces added by tjunctions
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
+Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
+---- WriteBSPFile ----
+          191 planes             3820
+          444 vertexes           5328
+          138 nodes              3312
+           52 texinfo            2080
+          327 faces              6540
+          888 clipnodes          7104
+           97 leafs              2716
+          478 marksurfaces        956
+         1564 surfedges          6256
+          783 edges              3132
+            6 textures          70988
+              lightdata             0
+              visdata               0
+              entdata            3025
+
+0.304 seconds elapsed
+Peak memory usage: 2762582 (2.6M)

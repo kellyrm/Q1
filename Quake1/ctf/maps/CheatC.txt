@@ -1,0 +1,72 @@
+This version: V1.c - 5/17/97    
+
+fixed things:
+-squashed cowardly blue texture in red bae
+-fixed how the bars of the big doors in the flag rooms go into
+ the cieling and clash with the textures
+-fixed dm respawn point angles (the direction u face when spawned) 
+ in red base       
+-fixed MORE cowardly blue textures in red base
+-made the secret doors slide in first, then to the side (they dont
+ CHEAT you out of life now)
+-retextured ouside area totally
+-made legdes with buttons that open the flag room doors by the 
+ window in the rl room
+-retextured water tunnels (a little bit)
+-made neat light fixtures in the quad rooms
+-put blue\red textures on the camp ledges in flag rooms
+                      
+-=[ General Information ]=-
+
+TITLE           : The CHEAT Complex
+FILENAME	: CheatC.bsp
+AUTHOR		: [EQ]dungo (Eben Gulick)
+EMAIL		: Bhopi@stratos.net
+DESCRIPTION     : CTF Level for Quake (duh).  this level combines serveral 
+		  elements of my favorite capture the flag levels,
+		  specifically the base theme and water tunneling
+		  from Mckinly Base (ctf1); and the back over-			
+		  head exit ala The Forgotten Mines(ctf4). 
+CREDITS         : Ludlow for being a GREAT help (giving servers for 
+		  testing, ect) and Clan EarthQuake for their support
+		  and suggestions. also kik for choosing this level for
+		  his next tourney, TFC (tourney for CHEATERS!)
+
+
+
+-=[ Level Information ]=-  
+
+SINGLE PLAYER           : Nope
+COOPERATIVE             : Nada
+DEATHMATCH 		: Never (well actually it is a pretty cool dm level)
+CTF?			: Ofcourse you ninny. its a small map, so over maybe 8 people 
+			  would get crowded real quick.
+
+-=[ Construction ]=-
+
+EDITOR USED             : World Craft 1.1a and BSP 0.67b
+CONSTRUCTION TIME       : took me about a week, working 3-4 hours a day
+KNOWN BUGS              : erm... well, actaully there are over 20 million known
+			  bugs in the world (i learned this in zoology). In the family 
+			  of Insecta, there are 6 main phylums: Cleoptera, hymenoptera,
+			  Diptera,... and uhh three others i cant remember now.  ask me
+			  later. good question tho. next?
+
+-=[ How to use the level ]=-
+
+if you dont know this, you should be shot
+
+-=[ Some Comments ]=-
+
+erm.. well uh, words?
+
+-=[ Distribution Information ]=-  
+do what ever you want with this.. pass it around ect, but please keep this readme
+file attached and give credit where credit is due (to me muahaha).
+
+-=[ Contact ]=-
+     
+Any feedback would be tolerated (hehe)
+
+E-mail: bhopi@stratos.net
+

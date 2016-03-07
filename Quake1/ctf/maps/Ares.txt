@@ -1,0 +1,97 @@
+Tuesday, April 1, 1997
+================================================================
+Title                   : The Crown of Ares (V. 2.0)
+Filename                : Ares.bsp
+Author                  : Maxim "Bodybag" Savic
+Author Email Address    : msavic@comnet.ca
+Author URL              : http://www.comnet.ca/~msavic
+Quake Clan              : In Praise of AMMO
+Clan Url                : http://ammo.mgl.ca
+Author's Other Levels   : The Thirteen Steps (thirteen.zip)
+                          Where Eagles Dare (under revision)
+                          One Gone (onegone.zip)
+                          Cthulhu's Crackhouse (needs to compile)
+
+Description          : I originally intended to do this level
+                       for Zoid's CTF 4.0 level pack.  However,
+                       as the deadline closed in I decided to
+                       forego submitting in favour of doing a
+                       quality job.
+
+                       And that's what you have in your hands.
+
+                       Fully de-bugged and tested.  R_speeds
+                       crests 500 once (520).  The rest of the
+                       map is below 450.
+
+Additional Credits to: Everyone in my clan for the helpful
+                       suggestions/moral support that lead
+                       to V2.0.
+
+                       The Quake editing community for all
+                       the free advice, help, and motivation.
+
+                       id Software, Inc., of course, for being
+                       so *damn* cool.
+================================================================
+
+* Play Information *
+                       This is a Capture The Flag level.  All
+                       design/balancing decisions were made
+                       with this in mind.  16 CTF starts.
+
+                       There are deathmatch starts for up to
+                       16 players.
+
+                       Note: this level will work best with
+                       CTF4.0--no one will be able to stand
+                       on the lifts and prevent them from
+                       descending.
+        
+Single Player           : No--only one start for inspection.
+Cooperative             : No
+Deathmatch              : YES--16 player max(GRAPPLE RECOMM'D).
+Capture the Flag        : YES--16 player max(8 per side).
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : Set to Track 4.
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft and EDIT.COM.
+Known Bugs              : None.
+Build Time              : Roughly 72 hours total over 1 week.
+                          Tweaking for the 2 weeks afterwards.
+Texture Wad used        : Textures.wad
+
+Compile machine         : PPRO 200 w/64 megs RAM
+QBSP Time               : ~5 minutes
+Light Time              : ~5 minutes
+VIS (-level 4) Time     : ~5 minutes
+
+Brushes                 : ~1200
+Entities                : ~400
+Models                  : ?
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.
+
+The original zipfile and its contents MUST remain UNALTERED.
+
+Permission is granted to download the bsp through non-commercial
+QuakeWorld servers.
+
+Commercial servers may NOT use this level.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems
+and in its original zipfile format--UNALTERED bsp and textfile included.
+You are NOT authorized to put this BSP on any commercial CD or diskette
+without my permission.  Also note that id Software, Inc. has
+certain restrictions on the distribution of derivative levels.  If you
+go ahead and ignore these warnings, don't be surprised if a lawsuit
+comes your way...
