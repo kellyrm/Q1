@@ -2455,3 +2455,71 @@
 5892 2016-02-04 10:52:40: Created BrowserGroup.fragsh
 5892 2016-02-04 10:52:48: Autosave directory created at autosave
 5892 2016-02-04 10:52:48: Autosaved to autosave\unnamed1 1.map in 0.009000 seconds
+2172 2016-03-07 18:08:03: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 20.19.15.4360 from Intel
+2172 2016-03-07 18:08:04: Depth buffer bits: 32
+2172 2016-03-07 18:08:04: Multisampling disabled
+2172 2016-03-07 18:08:04: OpenGL instancing enabled
+2172 2016-03-07 18:08:04: Created Edge Shader Program
+2172 2016-03-07 18:08:04: Created Edge.vertsh
+2172 2016-03-07 18:08:04: Created Edge.fragsh
+2172 2016-03-07 18:08:04: Created Entity Model Shader Program
+2172 2016-03-07 18:08:04: Created EntityModel.vertsh
+2172 2016-03-07 18:08:04: Created EntityModel.fragsh
+2172 2016-03-07 18:08:04: Loading 'progs/player.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/armor.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/suit.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/invisibl.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/invulner.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/quaddama.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'maps/b_batt0.bsp' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'maps/b_bh25.bsp' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/w_s_key.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/w_g_key.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'maps/b_rock0.bsp' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'maps/b_shell0.bsp' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/end1.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'maps/b_nail0.bsp' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/flame2.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/flame.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'maps/b_explob.bsp' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'maps/b_exbox2.bsp' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/teleport.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/soldier.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/boss.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/demon.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/dog.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/enforcer.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/fish.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/hknight.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/knight.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/ogre.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/oldone.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/shalrath.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/shambler.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:04: Loading 'progs/tarbaby.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:05: Loading 'progs/wizard.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:05: Loading 'progs/zombie.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:05: Loading 'progs/g_rock.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:05: Loading 'progs/g_light.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:05: Loading 'progs/g_nail.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:05: Loading 'progs/g_rock2.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:05: Loading 'progs/g_nail2.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:05: Loading 'progs/g_shot.mdl' (searching C:\Q1\Quake1\ID1)
+2172 2016-03-07 18:08:05: Created Face Shader Program
+2172 2016-03-07 18:08:05: Created Face.vertsh
+2172 2016-03-07 18:08:05: Created Face.fragsh
+2172 2016-03-07 18:08:05: Created Colored Edge Shader Program
+2172 2016-03-07 18:08:05: Created ColoredEdge.vertsh
+2172 2016-03-07 18:08:05: Created Text Shader Program
+2172 2016-03-07 18:08:05: Created Text.vertsh
+2172 2016-03-07 18:08:05: Created Text.fragsh
+2172 2016-03-07 18:08:05: Created Text Background Shader Program
+2172 2016-03-07 18:08:05: Created TextBackground.vertsh
+2172 2016-03-07 18:08:05: Created TextBackground.fragsh
+2172 2016-03-07 18:08:05: Created Compass Shader Program
+2172 2016-03-07 18:08:05: Created Compass.vertsh
+2172 2016-03-07 18:08:05: Created Compass.fragsh
+2172 2016-03-07 18:08:05: Created Browser Group Shader Program
+2172 2016-03-07 18:08:05: Created BrowserGroup.vertsh
+2172 2016-03-07 18:08:05: Created BrowserGroup.fragsh
+2172 2016-03-07 18:08:29: Autosaved to autosave\unnamed1 1.map in 0.013000 seconds
