@@ -2591,3 +2591,167 @@
 5032 2016-03-08 10:48:44: Created BrowserGroup.vertsh
 5032 2016-03-08 10:48:44: Created BrowserGroup.fragsh
 5032 2016-03-08 10:49:19: Autosaved to autosave\unnamed1 1.map in 0.003000 seconds
+2704 2016-04-11 16:13:24: Renderer info: Intel(R) HD Graphics 520 version 4.4.0 - Build 20.19.15.4331 from Intel
+2704 2016-04-11 16:13:24: Depth buffer bits: 32
+2704 2016-04-11 16:13:24: Multisampling disabled
+2704 2016-04-11 16:13:24: OpenGL instancing enabled
+2704 2016-04-11 16:13:25: Created Edge Shader Program
+2704 2016-04-11 16:13:25: Created Edge.vertsh
+2704 2016-04-11 16:13:25: Created Edge.fragsh
+2704 2016-04-11 16:13:25: Created Entity Model Shader Program
+2704 2016-04-11 16:13:25: Created EntityModel.vertsh
+2704 2016-04-11 16:13:25: Created EntityModel.fragsh
+2704 2016-04-11 16:13:25: Loading 'progs/player.mdl' (searching )
+2704 2016-04-11 16:13:25: Unable to find MDL 'progs/player.mdl'
+2704 2016-04-11 16:13:25: Loading 'progs/armor.mdl' (searching )
+2704 2016-04-11 16:13:25: Unable to find MDL 'progs/armor.mdl'
+2704 2016-04-11 16:13:25: Loading 'progs/armor.mdl' (searching )
+2704 2016-04-11 16:13:25: Unable to find MDL 'progs/armor.mdl'
+2704 2016-04-11 16:13:25: Loading 'progs/armor.mdl' (searching )
+2704 2016-04-11 16:13:25: Unable to find MDL 'progs/armor.mdl'
+2704 2016-04-11 16:13:25: Loading 'progs/suit.mdl' (searching )
+2704 2016-04-11 16:13:25: Unable to find MDL 'progs/suit.mdl'
+2704 2016-04-11 16:13:25: Loading 'progs/invisibl.mdl' (searching )
+2704 2016-04-11 16:13:25: Unable to find MDL 'progs/invisibl.mdl'
+2704 2016-04-11 16:13:25: Loading 'progs/invulner.mdl' (searching )
+2704 2016-04-11 16:13:25: Unable to find MDL 'progs/invulner.mdl'
+2704 2016-04-11 16:13:25: Loading 'progs/quaddama.mdl' (searching )
+2704 2016-04-11 16:13:25: Unable to find MDL 'progs/quaddama.mdl'
+2704 2016-04-11 16:13:25: Loading 'maps/b_batt0.bsp' (searching )
+2704 2016-04-11 16:13:25: Unable to find BSP 'maps/b_batt0.bsp'
+2704 2016-04-11 16:13:26: Loading 'maps/b_bh25.bsp' (searching )
+2704 2016-04-11 16:13:26: Unable to find BSP 'maps/b_bh25.bsp'
+2704 2016-04-11 16:13:26: Loading 'progs/w_s_key.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/w_s_key.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/w_g_key.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/w_g_key.mdl'
+2704 2016-04-11 16:13:26: Loading 'maps/b_rock0.bsp' (searching )
+2704 2016-04-11 16:13:26: Unable to find BSP 'maps/b_rock0.bsp'
+2704 2016-04-11 16:13:26: Loading 'maps/b_shell0.bsp' (searching )
+2704 2016-04-11 16:13:26: Unable to find BSP 'maps/b_shell0.bsp'
+2704 2016-04-11 16:13:26: Loading 'progs/end1.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/end1.mdl'
+2704 2016-04-11 16:13:26: Loading 'maps/b_nail0.bsp' (searching )
+2704 2016-04-11 16:13:26: Unable to find BSP 'maps/b_nail0.bsp'
+2704 2016-04-11 16:13:26: Loading 'progs/flame2.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/flame2.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/flame.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/flame.mdl'
+2704 2016-04-11 16:13:26: Loading 'maps/b_explob.bsp' (searching )
+2704 2016-04-11 16:13:26: Unable to find BSP 'maps/b_explob.bsp'
+2704 2016-04-11 16:13:26: Loading 'maps/b_exbox2.bsp' (searching )
+2704 2016-04-11 16:13:26: Unable to find BSP 'maps/b_exbox2.bsp'
+2704 2016-04-11 16:13:26: Loading 'progs/teleport.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/teleport.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/soldier.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/soldier.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/boss.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/boss.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/demon.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/demon.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/dog.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/dog.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/enforcer.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/enforcer.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/fish.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/fish.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/hknight.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/hknight.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/knight.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/knight.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/ogre.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/ogre.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/oldone.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/oldone.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/shalrath.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/shalrath.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/shambler.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/shambler.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/tarbaby.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/tarbaby.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/wizard.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/wizard.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/zombie.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/zombie.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/g_rock.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/g_rock.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/g_light.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/g_light.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/g_nail.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/g_nail.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/g_rock2.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/g_rock2.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/g_nail2.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/g_nail2.mdl'
+2704 2016-04-11 16:13:26: Loading 'progs/g_shot.mdl' (searching )
+2704 2016-04-11 16:13:26: Unable to find MDL 'progs/g_shot.mdl'
+2704 2016-04-11 16:13:26: Created Face Shader Program
+2704 2016-04-11 16:13:26: Created Face.vertsh
+2704 2016-04-11 16:13:26: Created Face.fragsh
+2704 2016-04-11 16:13:26: Created Colored Edge Shader Program
+2704 2016-04-11 16:13:26: Created ColoredEdge.vertsh
+2704 2016-04-11 16:13:26: Created Text Shader Program
+2704 2016-04-11 16:13:26: Created Text.vertsh
+2704 2016-04-11 16:13:26: Created Text.fragsh
+2704 2016-04-11 16:13:26: Created Text Background Shader Program
+2704 2016-04-11 16:13:26: Created TextBackground.vertsh
+2704 2016-04-11 16:13:26: Created TextBackground.fragsh
+2704 2016-04-11 16:13:26: Created Compass Shader Program
+2704 2016-04-11 16:13:26: Created Compass.vertsh
+2704 2016-04-11 16:13:26: Created Compass.fragsh
+2704 2016-04-11 16:13:26: Created Browser Group Shader Program
+2704 2016-04-11 16:13:26: Created BrowserGroup.vertsh
+2704 2016-04-11 16:13:26: Created BrowserGroup.fragsh
+2704 2016-04-11 16:14:39: Created Texture Browser Border Shader Program
+2704 2016-04-11 16:14:39: Created TextureBrowserBorder.vertsh
+2704 2016-04-11 16:14:39: Created TextureBrowserBorder.fragsh
+2704 2016-04-11 16:14:39: Created Texture Browser Shader Program
+2704 2016-04-11 16:14:39: Created TextureBrowser.vertsh
+2704 2016-04-11 16:14:39: Created TextureBrowser.fragsh
+2704 2016-04-11 16:15:47: Created Handle Shader Program
+2704 2016-04-11 16:15:47: Created Handle.vertsh
+2704 2016-04-11 16:15:47: Created Handle.fragsh
+2704 2016-04-11 16:17:15: Pasted 0 entities and 1 brush
+2704 2016-04-11 16:17:24: Pasted 0 entities and 1 brush
+2704 2016-04-11 16:20:58: Created Compass Outline Shader Program
+2704 2016-04-11 16:20:58: Created CompassOutline.vertsh
+2704 2016-04-11 16:51:14: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:14: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:15: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:15: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:16: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:17: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:17: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:17: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:18: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:18: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:19: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:19: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:20: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:21: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:29: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:30: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:30: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:31: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:31: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:31: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:32: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:32: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:51:33: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:52:23: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:52:23: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:52:23: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:52:24: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:52:24: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:52:25: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:52:25: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:52:25: Pasted 1 entity  and 0 brushes
+2704 2016-04-11 16:53:30: Saved map file to D:\krm\Q1\TrenchBroom\maps\arena.map in 0.045000 seconds
+2704 2016-04-11 16:53:30: Autosaved to D:\krm\Q1\TrenchBroom\maps\autosave\arena 1.map in 0.005000 seconds
+2704 2016-04-11 16:57:27: Loading 'maps/b_bh100.bsp' (searching )
+2704 2016-04-11 16:57:27: Unable to find BSP 'maps/b_bh100.bsp'
+2704 2016-04-11 16:57:31: Loading 'maps/b_bh10.bsp' (searching )
+2704 2016-04-11 16:57:31: Unable to find BSP 'maps/b_bh10.bsp'
+2704 2016-04-11 17:03:30: Autosaved to D:\krm\Q1\TrenchBroom\maps\autosave\arena 2.map in 0.005000 seconds
+2704 2016-04-11 17:11:04: Saved map file to D:\krm\Q1\TrenchBroom\maps\arena.map in 0.004000 seconds
+2704 2016-04-11 17:11:04: Autosaved to D:\krm\Q1\TrenchBroom\maps\autosave\arena 3.map in 0.005000 seconds

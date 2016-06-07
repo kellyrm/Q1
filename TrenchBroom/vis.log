@@ -1,1 +1,6 @@
 ---- vis / TyrUtils v0.15 ----
+running with 4 threads
+testlevel = 4
+BSP is version 29
+LoadPortals: couldn't read .\bsp\arena.prt
+No vising performed.

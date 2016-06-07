@@ -1,0 +1,7 @@
+---- qbsp / TyrUtils v0.15 ----
+Input file: .\maps\n=arena.map
+Output file: .\bsp\n=arena.bsp
+
+---- LoadMapFile ----
+************ ERROR ************
+Failed to open .\maps\n=arena.map: No such file or directory
